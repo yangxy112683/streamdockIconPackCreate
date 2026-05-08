@@ -1,0 +1,10 @@
+{
+  "Name": "My Icon Pack",
+  "Version": "1.0.0",
+  "Description": "A custom icon pack for StreamDock and Stream Deck.",
+  "Author": "Your Name",
+  "URL": "https://example.com",
+  "Icon": "icon.svg",
+  "License": "license.txt",
+  "StreamdeckID": "com.example.my-icons"
+}

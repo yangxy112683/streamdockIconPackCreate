@@ -1,0 +1,903 @@
+[2026-05-08 14:55:39.033] Warning: Detected system locale encoding (US-ASCII, locale "C") is not UTF-8.
+Qt shall use a UTF-8 locale ("C.UTF-8") instead. If this causes problems,
+reconfigure your locale. See the locale(1) manual for more information.
+[2026-05-08 14:55:39.113] Critical: Another instance is already running. Exiting... "@MiraBox_StreamDock_LocalServer_Name_"
+[2026-05-08 14:55:39.113] Warning: StandaloneMessgeLoop is not supported on macOS
+[2026-05-08 14:55:39.113] Warning: Sandbox status is not configurable when compile switch CEF_USE_SANDBOX is OFF
+[2026-05-08 14:55:39.247] Info: "6.4.3"
+[2026-05-08 14:55:39.248] Info: "macos 15.5"
+[2026-05-08 14:55:39.248] Info: "24.5.0"
+[2026-05-08 14:55:39.248] Info: "Chinese"
+[2026-05-08 14:55:39.248] Info: "3.10.200.0402"
+[2026-05-08 14:55:39.341] Info: Init app - begin
+[2026-05-08 14:55:39.357] Info: Load preload html - begin
+[2026-05-08 14:55:39.367] Info: Load preload html - end
+[2026-05-08 14:55:39.368] Info: MonitorApplicationsTool - start
+[2026-05-08 14:55:39.368] Info: MonitorApplicationsTool - end
+[2026-05-08 14:55:39.369] Info: SDWebsocketServer - end
+[2026-05-08 14:55:39.369] Info: SDPluginServer instance - end
+[2026-05-08 14:55:39.371] Info: SDProfileManager instance - end
+[2026-05-08 14:55:39.638] Info: init plugins mamnger ~~~~~~~~~~~~~
+[2026-05-08 14:55:39.638] Info: init plugins mamnger  end ~~~~~~~~~~~~~
+[2026-05-08 14:55:39.793] Critical: Can't find the code path file
+[2026-05-08 14:55:39.797] Critical: Can't find the code path file
+[2026-05-08 14:55:39.799] Critical: Can't find the code path file
+[2026-05-08 14:55:39.841] Critical: Can't find the code path file
+[2026-05-08 14:55:39.846] Info: initWidget - start
+[2026-05-08 14:55:39.846] Info: initWidget _ SDDebugger start 
+[2026-05-08 14:55:39.847] Info: initWidget _ SDUploadDialog start 
+[2026-05-08 14:55:39.847] Info: initWidget _ SDSetting start 
+[2026-05-08 14:55:39.879] Warning: QLayout: Attempting to add QLayout "" to K1ProKeycapSkinWidget "", which already has a layout
+[2026-05-08 14:55:39.930] Info: initWidget _ SDStore start 
+[2026-05-08 14:55:39.931] Info: Store websocket server listen successful with port: 56018
+[2026-05-08 14:55:39.931] Info: initWidget _ SDToolbarWidget start 
+[2026-05-08 14:55:40.326] Warning: Populating font family aliases took 170 ms. Replace uses of missing font family "Microsoft YaHei" with one that exists to avoid this cost. 
+[2026-05-08 14:55:40.379] Info: SDDeviceDisplayWidget : 注册 sddevice 销毁通知
+[2026-05-08 14:55:40.381] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:55:40.381] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:55:40.381] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:55:40.392] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:55:40.395] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:55:40.395] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:55:40.396] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:55:40.405] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:55:40.419] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:55:40.419] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:55:40.419] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:55:40.497] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:55:40.666] Info: Init app - end
+[2026-05-08 14:55:40.666] Warning: QObject: Cannot create children for a parent that is in a different thread.
+(Parent is StreamDock(0x16d637060), parent's thread is QThread(0x6000012e0180), current thread is QThread(0x600001199b00)
+[2026-05-08 14:55:40.691] Info: SDNotificationWidget::updateLocation
+[2026-05-08 14:55:40.713] Info: "/Applications/StreamDock.app/Contents/MacOS/StreamDock"
+[2026-05-08 14:55:40.713] Info: Run a.exec().
+[2026-05-08 14:55:40.749] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:40.749] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:55:40.749] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:40.749] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:55:40.749] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:40.749] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:55:41.003] Info: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.exension.stocks.sdPlugin/sdplugin-stocks"  [STDERR]: "2026/05/08 14:55:39 OpenFile Log: open /Users/dawn80s/Library/Application Support/com.elgato.StreamDeck/Plugins/com.exension.stocks.sdPlugin/stocks.log: no such file or directory\n"
+[2026-05-08 14:55:41.209] Info: onTextMessageReceived "Plugin 9C4G3T7TWY220RZDZ744Z335J6GV4BI0 com.mirabox.performancemonitor.mac.sdPlugin is now connected"
+[2026-05-08 14:55:41.211] Info: onTextMessageReceived "Plugin KR987U7SB682W01Q19HL427655484VR7 com.mirabox.streamdock.steam.sdPlugin is now connected"
+[2026-05-08 14:55:41.211] Info: onTextMessageReceived "Plugin 7O2S1D1AV778Z01H3Y0H1S726104OEG3 com.mirabox.streamdock.emoji.sdPlugin is now connected"
+[2026-05-08 14:55:41.212] Info: onTextMessageReceived "Plugin D3NH05IOCZ14535RU7QXFU7WX88MSS6O com.mirabox.streamdock.pictureEmoticons.sdPlugin is now connected"
+[2026-05-08 14:55:41.213] Info: onTextMessageReceived "Plugin J9K53U3G6A1O7TY2AXZ2421G0120C2H3 com.textic.steamswitcher.sdPlugin is now connected"
+[2026-05-08 14:55:41.213] Info: onTextMessageReceived "Plugin 4DREBJ1UB7OR42QMAC4NVN7ZI6E8SEMV com.nicoohagedorn.pythonscriptdeck.sdPlugin is now connected"
+[2026-05-08 14:55:41.215] Info: onTextMessageReceived "Plugin 6V9UB2ACN37O33467E52AB319AU4H1KH dev.androne.plugin.streamdock.ytmusic.sdPlugin is now connected"
+[2026-05-08 14:55:41.216] Info: onTextMessageReceived "Plugin GUH50W7CWC72X1M05T0972454AP1EYJ4 com.mirabox.streamdock.PR.sdPlugin is now connected"
+[2026-05-08 14:55:41.216] Info: onTextMessageReceived "Plugin GD3R27K1D0WLXKA6WW792NJIAJO799OL com.chektek.steam-connect.sdPlugin is now connected"
+[2026-05-08 14:55:41.217] Info: onTextMessageReceived "Plugin Q2J7SBUI5S7107NGVFVSM7QQHO95ETC7 de.artus.fileexplorer.sdPlugin is now connected"
+[2026-05-08 14:55:41.252] Info: checkForUpdates
+[2026-05-08 14:55:41.294] Info: onTextMessageReceived "Plugin 0710D13Q03171L5F8SL71536NO7N3S5O com.nicollasr.streamdeckvsc.mac.sdPlugin is now connected"
+[2026-05-08 14:55:41.449] Info: Downloader status code: 200
+[2026-05-08 14:55:41.450] Info: 数据大小: 34422
+[2026-05-08 14:55:41.450] Info: 是否支持以字节为单位的范围: true
+[2026-05-08 14:55:41.450] Info: 获取数据大小耗时： 596 ms
+[2026-05-08 14:55:41.450] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/space/avatar.png"
+[2026-05-08 14:55:41.461] Info: onTextMessageReceived "Plugin 88VTL4J961V2ACNY3Q4ZJ9GROED08VSC com.mirabox.streamdock.dateTime.sdPlugin is now connected"
+[2026-05-08 14:55:41.467] Info: onTextMessageReceived "Plugin 6U1IQK0VS572XO228I7350VU7XP91BW3 com.nefrit.telegram.sdPlugin is now connected"
+[2026-05-08 14:55:41.479] Info: onTextMessageReceived "Plugin ZVW0AH78W0MGWF0L2VWY8FVV154LCJ43 com.hotspot.streamdock.myHeadline.sdPlugin is now connected"
+[2026-05-08 14:55:41.496] Info: onTextMessageReceived "Plugin 29MR0396BR6V4U13T29CX395V5358T65 com.mirabox.streamdock.pigmenteffects.sdPlugin is now connected"
+[2026-05-08 14:55:41.497] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:41.513] Info: onTextMessageReceived "Plugin 484HE1AE0133SSBNPCS38H6SW29D05IZ com.hotspot.streamdock.memo.sdPlugin is now connected"
+[2026-05-08 14:55:41.597] Info: onTextMessageReceived "Plugin 9H2301MK4Y1MYLKB2S4FNN1Y6X6XF7L3 com.moz.obsidian-for-streamdock.sdPlugin is now connected"
+[2026-05-08 14:55:41.606] Info: onTextMessageReceived "Plugin 0M63Q0J6R232H3SEIW1B2MSW30NWZB1O com.mirabox.streamdock.calendar.sdPlugin is now connected"
+[2026-05-08 14:55:41.617] Info: onTextMessageReceived "Plugin 98L8MIR00CATLLJSCO7480H28B9VX920 fun.shiro.ytmd.sdPlugin is now connected"
+[2026-05-08 14:55:41.633] Info: onTextMessageReceived "Plugin 529FUK6FH8L3ABZ1YF9OOV1JDDKC10B3 com.mirabox.streamdock.time.sdPlugin is now connected"
+[2026-05-08 14:55:41.647] Info: onTextMessageReceived "Plugin U2348ADX3G01S995B1072OSKLPS0337T com.mirabox.streamdock.h1time.sdPlugin is now connected"
+[2026-05-08 14:55:41.657] Info: onTextMessageReceived "Plugin 6LNDXJ4FRI5271IM240B69W80K0L4PTG com.mirabox.streamdock.screensaver.sdPlugin is now connected"
+[2026-05-08 14:55:41.668] Info: onTextMessageReceived "Plugin ECPB25CC28E20328R64C4HI9445QMWJE com.mirabox.streamdock.eatgoldcoins.sdPlugin is now connected"
+[2026-05-08 14:55:41.693] Info: Connect to devices...
+[2026-05-08 14:55:41.699] Info: Devices number: 44
+[2026-05-08 14:55:41.699] Info: Elapsed time: 6 ms
+[2026-05-08 14:55:41.699] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   13 tmpUsagePage  65280 0
+[2026-05-08 14:55:41.699] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  1 1
+[2026-05-08 14:55:41.699] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  1 2
+[2026-05-08 14:55:41.699] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  12 3
+[2026-05-08 14:55:41.699] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   128 tmpUsagePage  1 4
+[2026-05-08 14:55:41.700] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   19 tmpUsagePage  1 5
+[2026-05-08 14:55:41.700] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  65440 6
+[2026-05-08 14:55:41.701] Info: "tmpVid  : 21832  tmpPid: 4128  tmpSerialNumber  01E2D2782932   -----"
+[2026-05-08 14:55:41.704] Info: SDDeviceDisplayWidget::openDevice 21832 4128 "01E2D2782932" 65440 1 0
+[2026-05-08 14:55:41.705] Info: Open device - begin
+[2026-05-08 14:55:41.705] Info: Open device: handle = 0x0
+[2026-05-08 14:55:41.705] Info: hid_init - end : 65440 1
+[2026-05-08 14:55:41.707] Info: "hid_get_manufacturer_string() return 0; Manufacturer String: HOTSPOTEKUSB;"
+[2026-05-08 14:55:41.707] Info: "hid_get_product_string() return 0; Product String: HOTSPOTEKUSB HID DEMO;"
+[2026-05-08 14:55:41.707] Info: "hid_get_serial_number_string() return 0; Serial Number String: (48) 01E2D2782932;"
+[2026-05-08 14:55:41.707] Info: "hid_get_indexed_string() return -1; Indexed String: 01E2D2782932;"
+[2026-05-08 14:55:41.707] Info: hid_get_output_report_lenght() return: 1024
+[2026-05-08 14:55:41.707] Info: hid_get_input_report_lenght() return: 512
+[2026-05-08 14:55:41.707] Info: hid_get_feature_report_lenght() return: 0
+[2026-05-08 14:55:41.707] Info: Open device: get firmware version, version string = "V4.M3_HJDF.02.007"
+[2026-05-08 14:55:41.707] Info: Try to start hid read thread.
+[2026-05-08 14:55:41.708] Info: Hid read thread start.
+[2026-05-08 14:55:41.708] Info: Read data function - begin
+[2026-05-08 14:55:41.708] Info: Try to start hid write thread.
+[2026-05-08 14:55:41.708] Info: Hid write thread start.
+[2026-05-08 14:55:41.708] Info: Write data function - begin
+[2026-05-08 14:55:41.708] Info: Open device - end
+[2026-05-08 14:55:41.708] Info: 启动发送数据线程。
+[2026-05-08 14:55:41.708] Info: 成功打开USB设备。
+[2026-05-08 14:55:41.708] Info: 启动接收数据线程。
+[2026-05-08 14:55:41.708] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   2 tmpUsagePage  65440 7
+[2026-05-08 14:55:41.708] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   255 tmpUsagePage  65280 8
+[2026-05-08 14:55:41.708] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 9
+[2026-05-08 14:55:41.708] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   11 tmpUsagePage  65280 10
+[2026-05-08 14:55:41.708] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  1 11
+[2026-05-08 14:55:41.708] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 12
+[2026-05-08 14:55:41.708] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  65280 13
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   6 tmpUsagePage  1 14
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   72 tmpUsagePage  65280 15
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   5 tmpUsagePage  65280 16
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  65292 17
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "5ac" pid  "0" tmpUsage   15 tmpUsagePage  65280 18
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   95 tmpUsagePage  65280 19
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   138 tmpUsagePage  32 20
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   3 tmpUsagePage  65280 21
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   6 tmpUsagePage  1 22
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  12 23
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   4 tmpUsagePage  65280 24
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  65280 25
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  65280 26
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   5 tmpUsagePage  13 27
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   9 tmpUsagePage  65280 28
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   2 tmpUsagePage  1 29
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   1 tmpUsagePage  1 30
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   514 tmpUsagePage  65347 31
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   3 tmpUsagePage  65280 32
+[2026-05-08 14:55:41.709] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   2 tmpUsagePage  1 33
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  1 34
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  13 35
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   12 tmpUsagePage  65280 36
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   6 tmpUsagePage  1 37
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  65292 38
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   128 tmpUsagePage  1 39
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  12 40
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   19 tmpUsagePage  1 41
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   514 tmpUsagePage  65347 42
+[2026-05-08 14:55:41.710] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  65292 43
+[2026-05-08 14:55:41.711] Info: checkForUpdates
+[2026-05-08 14:55:41.717] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:41.757] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:55:41.759] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:41.762] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:41.803] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:55:41.923] Info: onTextMessageReceived "Plugin 7NA3Y047T62I4E299IJF22T0ZD3S18U5 com.mirabox.streamdock.weather.sdPlugin is now connected"
+[2026-05-08 14:55:42.026] Info: onTextMessageReceived "Plugin 7I729IJD436HL3CTYEO447AWM015GC9F com.dahnandpartners.ytticker.sdPlugin is now connected"
+[2026-05-08 14:55:43.038] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:43.039] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:55:43.039] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:55:43.041] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:55:43.057] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:55:43.066] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:43.078] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:55:47.556] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:55:47.556] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:55:47.558] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:55:47.563] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.569] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.575] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.581] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.586] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.591] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.597] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.602] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.607] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.612] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.616] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.621] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.626] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.631] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.635] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.642] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.646] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.649] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.653] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:47.653] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:55:47.660] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:47.695] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:55:50.057] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:55:50.057] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:55:50.057] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:55:50.059] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:55:50.069] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:55:50.074] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:55:50.083] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:37.538] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:37.538] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:37.541] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:37.552] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:37.564] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:37.572] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:38.174] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:38.174] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:38.175] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:38.179] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:38.188] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:38.202] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:38.206] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:38.717] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:38.717] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:38.721] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:38.727] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:38.734] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:38.749] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:38.753] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:38.991] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:38.992] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:38.994] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:38.998] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.002] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.005] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.009] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.011] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.013] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.015] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.018] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.020] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.030] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:39.040] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:39.059] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:39.249] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:39.249] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:39.251] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:39.254] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.256] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.259] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.260] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.263] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.264] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.267] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.268] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.270] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.271] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.274] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.276] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.276] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.278] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.279] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.282] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.282] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.285] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.287] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.289] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.291] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.293] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.295] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.297] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.299] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.302] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.304] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.304] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:39.310] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:39.315] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:39.780] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:39.781] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:39.781] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:39.785] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:39.800] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:39.807] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:39.816] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:40.193] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:40.194] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:40.196] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:40.200] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.202] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.207] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.209] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.214] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.216] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.220] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.221] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.226] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.227] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.231] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.234] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.235] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.238] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.239] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.242] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.243] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.245] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.248] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.250] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.253] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.255] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.257] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.259] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.261] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.264] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.266] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:40.266] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:40.273] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:40.277] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:42.946] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:42.947] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:42.947] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:42.950] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:42.961] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:42.969] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:42.978] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 14:57:43.432] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 14:57:43.432] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 14:57:43.435] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 14:57:43.442] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.451] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.459] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.466] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.471] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.477] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.482] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.488] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.493] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.498] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.502] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.507] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.512] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.517] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.521] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.525] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.528] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.531] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.533] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 14:57:43.534] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 14:57:43.540] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 14:57:43.569] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:43.817] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:43.819] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:43.819] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:43.820] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:43.839] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:43.847] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:43.857] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:46.229] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:46.229] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:46.231] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:46.237] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.246] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.254] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.260] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.266] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.272] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.278] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.283] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.288] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.292] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.297] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.301] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.306] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.311] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.316] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.319] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.322] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.326] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.329] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.329] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:46.336] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:46.366] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:46.849] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:46.849] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:46.851] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:46.855] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.860] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.867] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.871] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.874] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.877] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.880] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.882] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.885] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.887] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.890] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.893] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.896] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.899] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.902] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.905] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.909] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.912] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.915] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:46.915] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:46.919] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:46.924] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:47.909] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:47.909] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:47.910] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:47.912] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.917] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.920] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.924] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.927] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.931] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.935] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.939] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.944] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.949] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.953] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.958] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.962] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.967] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.971] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.974] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.977] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.980] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.984] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:47.984] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:47.987] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:48.021] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:48.289] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:48.289] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:48.290] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:48.293] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.297] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.299] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.303] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.305] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.307] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.310] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.312] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.315] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.317] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.319] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.322] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.324] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.327] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.329] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.332] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.336] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.339] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.342] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.342] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:48.345] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:48.351] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:48.536] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:48.536] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:48.537] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:48.540] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.543] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.545] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.551] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.554] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.556] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.558] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.560] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.563] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.567] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.569] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.570] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.573] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.575] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.578] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.580] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.582] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.584] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.587] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.589] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.593] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:48.593] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:48.596] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:48.604] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:48.723] Info: onSocketDisconnected "Plugin 0710D13Q03171L5F8SL71536NO7N3S5O com.nicollasr.streamdeckvsc.mac.sdPlugin is now disconnected"
+[2026-05-08 15:08:48.724] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-08 15:08:48.724] Info: removePluginCode QWebSocket(0x6000012a0aa0)
+[2026-05-08 15:08:48.740] Critical: "The plugin 'com.nicollasr.streamdeckvsc.mac.sdPlugin' crashed: Unknown error"
+[2026-05-08 15:08:48.740] Info: restartPlugin "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.nicollasr.streamdeckvsc.mac.sdPlugin" 0
+[2026-05-08 15:08:49.149] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:49.149] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:49.150] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:49.153] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.157] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.160] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.163] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.166] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.169] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.172] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.174] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.177] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.180] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.183] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.186] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.189] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.192] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.195] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.199] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.204] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.207] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.211] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.211] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:49.216] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:49.223] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:49.238] Critical: "The plugin 'com.nicollasr.streamdeckvsc.mac.sdPlugin' crashed: Process crashed"
+[2026-05-08 15:08:49.567] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:49.567] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:49.569] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:49.572] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.576] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.580] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.585] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.588] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.593] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.598] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.603] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.608] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.613] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.617] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.621] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.626] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.631] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.636] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.639] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.643] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.647] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.651] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:49.651] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:49.653] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:49.691] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:50.062] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:50.062] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:50.064] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:50.067] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.071] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.074] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.078] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.081] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.083] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.086] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.089] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.092] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.095] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.097] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.101] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.104] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.107] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.110] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.113] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.117] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.120] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.124] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.124] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:50.126] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:50.133] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:50.588] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:50.588] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:50.590] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:50.592] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.597] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.602] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.607] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.610] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.615] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.619] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.624] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.629] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.633] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.638] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.642] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.647] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.652] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.657] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.660] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.664] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.667] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.676] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.676] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:50.680] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:50.719] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:50.796] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:50.796] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:50.798] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:50.801] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.804] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.807] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.810] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.813] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.816] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.818] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.821] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.824] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.827] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.829] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.833] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.835] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.838] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.841] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.844] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.849] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.852] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.856] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.856] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:50.861] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:50.867] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:50.928] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:50.929] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:50.930] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:50.933] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.936] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.939] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.943] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.947] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.951] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.954] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.956] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.960] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.963] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.967] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.970] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.972] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.975] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.978] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.981] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.983] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.986] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.989] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:50.990] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:50.990] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:50.999] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:51.344] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:51.345] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:51.349] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:51.358] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.362] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.365] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.369] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.371] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.374] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.377] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.380] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.383] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.385] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.388] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.391] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.394] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.398] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.401] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.404] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.408] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.412] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.416] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.416] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:51.416] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:51.423] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:08:51.450] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:08:51.450] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:08:51.451] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:08:51.454] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.458] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.463] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.467] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.470] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.476] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.481] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.486] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.491] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.496] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.500] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.504] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.509] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.514] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.519] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.522] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.526] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.529] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.533] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:08:51.533] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:08:51.533] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:08:51.572] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:15:12.723] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:12.724] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:15:12.724] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:15:12.726] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:15:12.745] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:15:12.754] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:15:12.764] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:15:13.224] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:15:13.225] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:15:13.229] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:15:13.239] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.245] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.251] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.256] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.260] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.266] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.271] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.276] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.282] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.287] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.292] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.297] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.303] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.309] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.314] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.318] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.322] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.325] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.330] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:13.330] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:15:13.338] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:15:13.374] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:15:20.356] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:20.357] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:15:20.357] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:15:20.358] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:15:20.376] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:15:20.384] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:15:20.395] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:15:24.392] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:15:24.392] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:15:24.395] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:15:24.399] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.403] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.408] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.412] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.416] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.420] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.425] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.429] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.434] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.439] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.443] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.448] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.453] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.458] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.463] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.466] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.470] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.473] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.477] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.477] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:15:24.499] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:24.500] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:15:24.500] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:15:24.502] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:15:24.512] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:15:24.519] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:15:24.528] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:15:24.567] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:15:24.577] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:15:26.066] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:15:26.066] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:15:26.067] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:15:26.069] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.074] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.079] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.084] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.088] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.092] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.097] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.102] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.107] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.111] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.116] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.120] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.125] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.130] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.134] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.137] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.142] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.145] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.148] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:15:26.149] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:15:26.156] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:15:26.193] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:15:32.061] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 15:15:32.066] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 15:15:32.068] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 15:15:32.071] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 15:15:32.078] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 15:15:32.080] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 15:15:32.082] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 15:15:32.092] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 15:15:32.102] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 15:15:32.119] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 15:15:32.121] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 15:15:32.123] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 15:15:32.124] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 15:28:21.466] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:28:21.467] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:28:21.467] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:28:21.469] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:28:21.489] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:28:21.582] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:28:21.592] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:40:42.566] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:40:42.567] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:40:42.571] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:40:42.585] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:40:42.594] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:40:42.600] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:40:43.096] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:40:43.096] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:40:43.098] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:40:43.103] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:43.113] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:40:43.127] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:40:43.131] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:40:43.456] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:40:43.456] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:40:43.458] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:40:43.462] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:43.471] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:40:43.483] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:40:43.486] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:40:44.700] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:40:44.701] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:40:44.703] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:40:44.707] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.711] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.714] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.720] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.722] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.723] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.724] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.727] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.728] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.735] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:40:44.744] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:40:44.763] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:40:44.815] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:40:44.815] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:40:44.817] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:40:44.821] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.822] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.825] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.826] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.830] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.831] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.834] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.835] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.839] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.840] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.843] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.845] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.846] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.849] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.850] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.852] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.853] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.856] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.859] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.861] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.863] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.866] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.869] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.871] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.874] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.878] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.880] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:44.880] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:40:44.892] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:40:44.899] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:40:48.186] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:48.187] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:40:48.187] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:40:48.190] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:40:48.207] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:40:48.215] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:40:48.228] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 15:40:48.998] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 15:40:48.999] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 15:40:49.003] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 15:40:49.012] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.020] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.025] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.031] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.035] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.041] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.046] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.052] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.058] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.064] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.070] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.076] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.082] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.088] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.094] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.097] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.102] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.105] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.109] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 15:40:49.109] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 15:40:49.119] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 15:40:49.156] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut

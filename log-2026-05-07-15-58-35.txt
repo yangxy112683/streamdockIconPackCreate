@@ -1,0 +1,249 @@
+[2026-05-07 15:58:35.725] Warning: Detected system locale encoding (US-ASCII, locale "C") is not UTF-8.
+Qt shall use a UTF-8 locale ("C.UTF-8") instead. If this causes problems,
+reconfigure your locale. See the locale(1) manual for more information.
+[2026-05-07 15:58:35.822] Critical: Another instance is already running. Exiting... "@MiraBox_StreamDock_LocalServer_Name_"
+[2026-05-07 15:58:35.822] Warning: StandaloneMessgeLoop is not supported on macOS
+[2026-05-07 15:58:35.822] Warning: Sandbox status is not configurable when compile switch CEF_USE_SANDBOX is OFF
+[2026-05-07 15:58:35.965] Info: "6.4.3"
+[2026-05-07 15:58:35.965] Info: "macos 15.5"
+[2026-05-07 15:58:35.965] Info: "24.5.0"
+[2026-05-07 15:58:35.965] Info: "Chinese"
+[2026-05-07 15:58:35.965] Info: "3.10.200.0402"
+[2026-05-07 15:58:36.056] Info: Init app - begin
+[2026-05-07 15:58:36.070] Info: Load preload html - begin
+[2026-05-07 15:58:36.084] Info: Load preload html - end
+[2026-05-07 15:58:36.085] Info: MonitorApplicationsTool - start
+[2026-05-07 15:58:36.085] Info: MonitorApplicationsTool - end
+[2026-05-07 15:58:36.085] Info: SDWebsocketServer - end
+[2026-05-07 15:58:36.086] Info: SDPluginServer instance - end
+[2026-05-07 15:58:36.087] Info: SDProfileManager instance - end
+[2026-05-07 15:58:36.271] Info: init plugins mamnger ~~~~~~~~~~~~~
+[2026-05-07 15:58:36.271] Info: init plugins mamnger  end ~~~~~~~~~~~~~
+[2026-05-07 15:58:36.350] Info: initWidget - start
+[2026-05-07 15:58:36.350] Info: initWidget _ SDDebugger start 
+[2026-05-07 15:58:36.351] Info: initWidget _ SDUploadDialog start 
+[2026-05-07 15:58:36.351] Info: initWidget _ SDSetting start 
+[2026-05-07 15:58:36.388] Warning: QLayout: Attempting to add QLayout "" to K1ProKeycapSkinWidget "", which already has a layout
+[2026-05-07 15:58:36.427] Info: initWidget _ SDStore start 
+[2026-05-07 15:58:36.427] Info: Store websocket server listen successful with port: 56018
+[2026-05-07 15:58:36.427] Info: initWidget _ SDToolbarWidget start 
+[2026-05-07 15:58:36.785] Warning: Populating font family aliases took 142 ms. Replace uses of missing font family "Microsoft YaHei" with one that exists to avoid this cost. 
+[2026-05-07 15:58:36.828] Info: SDDeviceDisplayWidget : 注册 sddevice 销毁通知
+[2026-05-07 15:58:36.829] Critical: Can not find profile
+[2026-05-07 15:58:36.830] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:58:36.830] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:58:36.830] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:58:36.866] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:58:36.868] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:58:36.868] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:58:36.869] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:58:36.890] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:58:37.317] Info: Init app - end
+[2026-05-07 15:58:37.317] Warning: QObject: Cannot create children for a parent that is in a different thread.
+(Parent is StreamDock(0x16b7eb060), parent's thread is QThread(0x6000033f0140), current thread is QThread(0x6000030bc860)
+[2026-05-07 15:58:37.334] Info: SDNotificationWidget::updateLocation
+[2026-05-07 15:58:37.342] Info: "/Applications/StreamDock.app/Contents/MacOS/StreamDock"
+[2026-05-07 15:58:37.343] Info: Run a.exec().
+[2026-05-07 15:58:37.372] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:58:37.372] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:58:37.372] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:58:37.372] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:58:37.475] Info: onTextMessageReceived "Plugin N93N238J2DFU7A14CHDW6GJ4I90FX2C0 com.mirabox.streamdock.emoji.sdPlugin is now connected"
+[2026-05-07 15:58:37.477] Info: onTextMessageReceived "Plugin 5D32I0D120KP1CPMP9U840IV4A2NNOEL com.mirabox.streamdock.PR.sdPlugin is now connected"
+[2026-05-07 15:58:37.478] Info: onTextMessageReceived "Plugin C2JM0T0434TS8QS4U91HMH822J3193YD com.mirabox.streamdock.pictureEmoticons.sdPlugin is now connected"
+[2026-05-07 15:58:37.576] Info: checkForUpdates
+[2026-05-07 15:58:37.610] Info: onTextMessageReceived "Plugin XX030461V2N1OOBPWQNYM3C3736EIEA5 com.mirabox.streamdock.pigmenteffects.sdPlugin is now connected"
+[2026-05-07 15:58:37.628] Info: onTextMessageReceived "Plugin 2B9K3RSJUXI012UX0S533U64454N5809 com.hotspot.streamdock.memo.sdPlugin is now connected"
+[2026-05-07 15:58:37.645] Info: onTextMessageReceived "Plugin 2MW4GX362I4AG4ID8T0M0U41OK1E3YKY com.mirabox.streamdock.calendar.sdPlugin is now connected"
+[2026-05-07 15:58:37.659] Info: onTextMessageReceived "Plugin P1LCLB91M74P91P8J5LL355RU13V25YC com.mirabox.streamdock.time.sdPlugin is now connected"
+[2026-05-07 15:58:37.676] Info: Downloader status code: 200
+[2026-05-07 15:58:37.676] Info: 数据大小: 34422
+[2026-05-07 15:58:37.676] Info: 是否支持以字节为单位的范围: true
+[2026-05-07 15:58:37.676] Info: 获取数据大小耗时： 256 ms
+[2026-05-07 15:58:37.677] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/space/avatar.png"
+[2026-05-07 15:58:37.697] Info: onTextMessageReceived "Plugin J1Y7040A8D1MWMF582VR240BA0SJENCL com.mirabox.streamdock.h1time.sdPlugin is now connected"
+[2026-05-07 15:58:37.698] Info: onTextMessageReceived "Plugin 7PV227O8ZB0H7MEIE317TGHSJR89D50Q com.mirabox.streamdock.screensaver.sdPlugin is now connected"
+[2026-05-07 15:58:37.709] Info: onTextMessageReceived "Plugin 0542169EJ5770OU7GTJ13V936845IGCM com.mirabox.streamdock.eatgoldcoins.sdPlugin is now connected"
+[2026-05-07 15:58:37.906] Info: onTextMessageReceived "Plugin MUW31PA1339I0VAN13P1QZ72TJL6XS39 com.mirabox.streamdock.weather.sdPlugin is now connected"
+[2026-05-07 15:58:38.336] Info: Connect to devices...
+[2026-05-07 15:58:38.345] Info: Devices number: 44
+[2026-05-07 15:58:38.346] Info: Elapsed time: 10 ms
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   6 tmpUsagePage  1 0
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   3 tmpUsagePage  65280 1
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   4 tmpUsagePage  65280 2
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   11 tmpUsagePage  65280 3
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   5 tmpUsagePage  65280 4
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   3 tmpUsagePage  65280 5
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   95 tmpUsagePage  65280 6
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   6 tmpUsagePage  1 7
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  65292 8
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   128 tmpUsagePage  1 9
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  12 10
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   19 tmpUsagePage  1 11
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   514 tmpUsagePage  65347 12
+[2026-05-07 15:58:38.346] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   138 tmpUsagePage  32 13
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   255 tmpUsagePage  65280 14
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  65292 15
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   2 tmpUsagePage  1 16
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  1 17
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  13 18
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   12 tmpUsagePage  65280 19
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 20
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  65280 21
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  65280 22
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   9 tmpUsagePage  65280 23
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  65292 24
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  1 25
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  1 26
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  12 27
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   128 tmpUsagePage  1 28
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   19 tmpUsagePage  1 29
+[2026-05-07 15:58:38.347] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   2 tmpUsagePage  1 30
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   1 tmpUsagePage  1 31
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   514 tmpUsagePage  65347 32
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   13 tmpUsagePage  65280 33
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   5 tmpUsagePage  13 34
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   72 tmpUsagePage  65280 35
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  1 36
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 37
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  65280 38
+[2026-05-07 15:58:38.348] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  65440 39
+[2026-05-07 15:58:38.350] Info: "tmpVid  : 21832  tmpPid: 4128  tmpSerialNumber  01E2D2782932   -----"
+[2026-05-07 15:58:38.354] Info: SDDeviceDisplayWidget::openDevice 21832 4128 "01E2D2782932" 65440 1 0
+[2026-05-07 15:58:38.354] Info: Open device - begin
+[2026-05-07 15:58:38.354] Info: Open device: handle = 0x0
+[2026-05-07 15:58:38.355] Info: hid_init - end : 65440 1
+[2026-05-07 15:58:38.358] Info: "hid_get_manufacturer_string() return 0; Manufacturer String: HOTSPOTEKUSB;"
+[2026-05-07 15:58:38.358] Info: "hid_get_product_string() return 0; Product String: HOTSPOTEKUSB HID DEMO;"
+[2026-05-07 15:58:38.358] Info: "hid_get_serial_number_string() return 0; Serial Number String: (48) 01E2D2782932;"
+[2026-05-07 15:58:38.358] Info: "hid_get_indexed_string() return -1; Indexed String: 01E2D2782932;"
+[2026-05-07 15:58:38.358] Info: hid_get_output_report_lenght() return: 1024
+[2026-05-07 15:58:38.358] Info: hid_get_input_report_lenght() return: 512
+[2026-05-07 15:58:38.358] Info: hid_get_feature_report_lenght() return: 0
+[2026-05-07 15:58:38.358] Info: Open device: get firmware version, version string = "V4.M3_HJDF.02.007"
+[2026-05-07 15:58:38.359] Info: Try to start hid read thread.
+[2026-05-07 15:58:38.359] Info: Hid read thread start.
+[2026-05-07 15:58:38.359] Info: Read data function - begin
+[2026-05-07 15:58:38.359] Info: Try to start hid write thread.
+[2026-05-07 15:58:38.359] Info: Hid write thread start.
+[2026-05-07 15:58:38.359] Info: Write data function - begin
+[2026-05-07 15:58:38.359] Info: Open device - end
+[2026-05-07 15:58:38.359] Info: 启动发送数据线程。
+[2026-05-07 15:58:38.359] Info: 成功打开USB设备。
+[2026-05-07 15:58:38.359] Info: 启动接收数据线程。
+[2026-05-07 15:58:38.359] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   2 tmpUsagePage  65440 40
+[2026-05-07 15:58:38.360] Info: 连接的设备 vid  "5ac" pid  "0" tmpUsage   15 tmpUsagePage  65280 41
+[2026-05-07 15:58:38.360] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   6 tmpUsagePage  1 42
+[2026-05-07 15:58:38.360] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  12 43
+[2026-05-07 15:58:38.362] Info: checkForUpdates
+[2026-05-07 15:58:38.369] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:58:38.413] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:58:38.415] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:58:38.449] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:58:52.197] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:58:52.198] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:58:52.201] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:58:52.238] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:58:52.239] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:58:52.278] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:58:53.050] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:58:53.050] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:58:53.052] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:58:53.054] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:58:53.055] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:58:53.056] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:59:12.361] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:59:12.361] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:59:12.363] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:59:12.382] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:59:12.382] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:59:12.392] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:59:12.735] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:59:12.736] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:59:12.738] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:59:12.744] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:59:12.745] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:59:12.752] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:59:19.432] Info: onTextMessageReceived "Property inspector 3225MFISB2353K43CZ86239J39N9IKAB  is now connected"
+[2026-05-07 16:00:01.801] Info: url ==  "https://space.key123.vip/interface/user/productInfo/get/20241105000019"
+[2026-05-07 16:00:02.343] Info: startDownload "getStreamDockPlugin\ngetStreamDockPlugin\n20241105000019\n日期时间\nhttps://cdn1.key123.vip/marketplace/streamDock/plugin/product/2026-01-24/KW7cwmVW6G/com.mirabox.streamdock.dateTime.sdPlugin" 
+ false
+[2026-05-07 16:00:02.735] Info: Downloader status code: 200
+[2026-05-07 16:00:02.735] Info: 数据大小: 106370
+[2026-05-07 16:00:02.735] Info: 是否支持以字节为单位的范围: true
+[2026-05-07 16:00:02.735] Info: 获取数据大小耗时： 389 ms
+[2026-05-07 16:00:02.736] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.mirabox.streamdock.dateTime.sdPlugin.tmp"
+[2026-05-07 16:00:02.905] Info: 6666777777771111111:::: false
+[2026-05-07 16:00:02.963] Critical: onSocketDisconnected QWebSocket(0x600003371040) 1001 ""
+[2026-05-07 16:00:02.965] Info: onSocketDisconnected "Property inspector 3225MFISB2353K43CZ86239J39N9IKAB  is now disconnected"
+[2026-05-07 16:00:02.965] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 16:00:02.966] Info: removePluginCode QWebSocket(0x600003371040)
+[2026-05-07 16:00:02.973] Info: onTextMessageReceived "Plugin L6OBV2E79S7V515YS2WACJ5ZTU1R77H0 com.mirabox.streamdock.dateTime.sdPlugin is now connected"
+[2026-05-07 16:04:32.206] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 16:04:32.209] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 16:04:32.214] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 16:04:32.241] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 16:04:32.241] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 16:04:32.252] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 16:04:32.521] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 16:04:32.522] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 16:04:32.524] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 16:04:32.580] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 16:04:32.580] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 16:04:32.616] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 16:14:18.764] Info: url ==  "https://space.key123.vip/interface/user/productInfo/get/20250214000378"
+[2026-05-07 16:14:19.056] Info: startDownload "getStreamDockPlugin\ngetStreamDockPlugin\n20250214000378\nSteam切换器\nhttps://cdn1.key123.vip/marketplace/streamDock/plugin/product/2025-02-14/FYwhM_i4fk/com.textic.steamswitcher.sdPlugin.SDPlugin" 
+ false
+[2026-05-07 16:14:19.781] Info: Downloader status code: 200
+[2026-05-07 16:14:19.782] Info: 数据大小: 212464
+[2026-05-07 16:14:19.782] Info: 是否支持以字节为单位的范围: true
+[2026-05-07 16:14:19.782] Info: 获取数据大小耗时： 722 ms
+[2026-05-07 16:14:19.782] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.textic.steamswitcher.sdPlugin.SDPlugin.tmp"
+[2026-05-07 16:14:19.990] Info: 6666777777771111111:::: false
+[2026-05-07 16:29:08.397] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 16:29:08.398] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 16:29:08.400] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 16:29:08.432] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 16:29:08.433] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 16:29:08.445] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 16:29:12.530] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 16:29:12.531] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 16:29:12.534] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 16:29:12.593] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 16:29:12.593] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 16:29:12.627] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 16:50:36.017] Info: url ==  "https://space.key123.vip/interface/user/productInfo/get/178366994578902"
+[2026-05-07 16:50:36.233] Info: startDownload "getStreamDockPlugin\ngetStreamDockPlugin\n178366994578902\nVisual Studio Code\nhttps://cdn1.key123.vip/marketplace/streamDock/plugin/product/2024-11-05/com.nicollasr.streamdeckvsc.SDPlugin" 
+ false
+[2026-05-07 16:50:36.621] Info: Downloader status code: 200
+[2026-05-07 16:50:36.622] Info: 数据大小: 32055251
+[2026-05-07 16:50:36.623] Info: 是否支持以字节为单位的范围: true
+[2026-05-07 16:50:36.623] Info: 获取数据大小耗时： 386 ms
+[2026-05-07 16:50:36.623] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.nicollasr.streamdeckvsc.SDPlugin.tmp"
+[2026-05-07 16:50:38.933] Info: 6666777777771111111:::: false
+[2026-05-07 16:50:41.232] Critical: Can't find the code path file
+[2026-05-07 16:51:26.077] Info: Commit data request.
+[2026-05-07 16:51:26.078] Info: 发送断开连接命令
+[2026-05-07 16:51:26.079] Info: quitApp - begin
+[2026-05-07 16:51:26.080] Info: quitApp - end
+[2026-05-07 16:51:26.123] Info: About to quit.
+[2026-05-07 16:51:26.124] Info: ~StreamDock
+[2026-05-07 16:51:26.129] Info: 发送断开连接命令
+[2026-05-07 16:51:26.130] Info: Close device - begin
+[2026-05-07 16:51:26.130] Info: Close device: handle = 0x1676346b0
+[2026-05-07 16:51:26.130] Info: Try to stop hid write thread.
+[2026-05-07 16:51:26.130] Info: Write data function - end
+[2026-05-07 16:51:26.130] Info: 关闭发送数据线程。
+[2026-05-07 16:51:26.130] Info: Try to stop hid read thread.
+[2026-05-07 16:51:28.385] Info: Read data function - end
+[2026-05-07 16:51:28.386] Info: 关闭接收数据线程。
+[2026-05-07 16:51:28.387] Info: hid_close(): handle = 0x0
+[2026-05-07 16:51:28.388] Info: hid_exit(): result = 0
+[2026-05-07 16:51:28.392] Info: Close device - end
+[2026-05-07 16:51:28.393] Info: Need to restart app: false
+[2026-05-07 16:51:28.398] Info: Close device: device not open!
+[2026-05-07 16:51:28.399] Info: Close device: device not open!
+[2026-05-07 16:51:28.399] Info: Close device: device not open!
+[2026-05-07 16:51:28.400] Info: ~SDDeviceDisplayWidget() :: "L3" "01E2D2782932"
+[2026-05-07 16:51:28.400] Info: Close device: device not open!
+[2026-05-07 16:51:28.401] Info: sddevice delete, have setting nullptr.

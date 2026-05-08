@@ -1,0 +1,245 @@
+[2026-05-07 17:27:26.791] Critical: Another instance is already running. Exiting... "@MiraBox_StreamDock_LocalServer_Name_"
+[2026-05-07 17:27:26.791] Warning: StandaloneMessgeLoop is not supported on macOS
+[2026-05-07 17:27:26.791] Warning: Sandbox status is not configurable when compile switch CEF_USE_SANDBOX is OFF
+[2026-05-07 17:27:26.928] Info: "6.4.3"
+[2026-05-07 17:27:26.928] Info: "macos 15.5"
+[2026-05-07 17:27:26.928] Info: "24.5.0"
+[2026-05-07 17:27:26.928] Info: "Chinese"
+[2026-05-07 17:27:26.928] Info: "3.10.200.0402"
+[2026-05-07 17:27:27.047] Info: Init app - begin
+[2026-05-07 17:27:27.065] Info: Load preload html - begin
+[2026-05-07 17:27:27.078] Info: Load preload html - end
+[2026-05-07 17:27:27.080] Info: MonitorApplicationsTool - start
+[2026-05-07 17:27:27.080] Info: MonitorApplicationsTool - end
+[2026-05-07 17:27:27.081] Info: SDWebsocketServer - end
+[2026-05-07 17:27:27.081] Info: SDPluginServer instance - end
+[2026-05-07 17:27:27.082] Info: SDProfileManager instance - end
+[2026-05-07 17:27:27.382] Info: init plugins mamnger ~~~~~~~~~~~~~
+[2026-05-07 17:27:27.382] Info: init plugins mamnger  end ~~~~~~~~~~~~~
+[2026-05-07 17:27:27.500] Info: initWidget - start
+[2026-05-07 17:27:27.500] Info: initWidget _ SDDebugger start 
+[2026-05-07 17:27:27.500] Info: initWidget _ SDUploadDialog start 
+[2026-05-07 17:27:27.501] Info: initWidget _ SDSetting start 
+[2026-05-07 17:27:27.543] Warning: QLayout: Attempting to add QLayout "" to K1ProKeycapSkinWidget "", which already has a layout
+[2026-05-07 17:27:27.596] Info: initWidget _ SDStore start 
+[2026-05-07 17:27:27.596] Info: Store websocket server listen successful with port: 56018
+[2026-05-07 17:27:27.596] Info: initWidget _ SDToolbarWidget start 
+[2026-05-07 17:27:28.037] Warning: Populating font family aliases took 191 ms. Replace uses of missing font family "Microsoft YaHei" with one that exists to avoid this cost. 
+[2026-05-07 17:27:28.099] Info: SDDeviceDisplayWidget : 注册 sddevice 销毁通知
+[2026-05-07 17:27:28.100] Critical: Can not find profile
+[2026-05-07 17:27:28.101] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 17:27:28.101] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 17:27:28.102] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 17:27:28.143] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 17:27:28.146] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 17:27:28.146] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 17:27:28.147] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 17:27:28.173] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 17:27:28.751] Info: Init app - end
+[2026-05-07 17:27:28.751] Warning: QObject: Cannot create children for a parent that is in a different thread.
+(Parent is StreamDock(0x16b99d800), parent's thread is QThread(0x12fe090d0), current thread is QThread(0x30c94e170)
+[2026-05-07 17:27:28.775] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:27:28.782] Info: "/Applications/StreamDock.app/Contents/MacOS/StreamDock"
+[2026-05-07 17:27:28.782] Info: Run a.exec().
+[2026-05-07 17:27:28.820] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:27:28.820] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:27:28.821] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:27:28.821] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:27:28.997] Info: onTextMessageReceived "Plugin CPI8Z2ZVMECBX27Z6376NYL2B803329W com.mirabox.streamdock.PR.sdPlugin is now connected"
+[2026-05-07 17:27:28.998] Info: onTextMessageReceived "Plugin 6A3Q0B2M651K0560M4VQH0209DC816L3 com.mirabox.streamdock.emoji.sdPlugin is now connected"
+[2026-05-07 17:27:29.000] Info: onTextMessageReceived "Plugin 431R7A2H1IR7329U8M21P4BY404XE11C com.textic.steamswitcher.sdPlugin is now connected"
+[2026-05-07 17:27:29.001] Info: onTextMessageReceived "Plugin O251F810BJLR35R4875TXTZ3C3TO9EC2 com.mirabox.streamdock.pictureEmoticons.sdPlugin is now connected"
+[2026-05-07 17:27:29.013] Info: checkForUpdates
+[2026-05-07 17:27:29.129] Info: Downloader status code: 200
+[2026-05-07 17:27:29.129] Info: 数据大小: 34422
+[2026-05-07 17:27:29.129] Info: 是否支持以字节为单位的范围: true
+[2026-05-07 17:27:29.129] Info: 获取数据大小耗时： 198 ms
+[2026-05-07 17:27:29.130] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/space/avatar.png"
+[2026-05-07 17:27:29.463] Info: onTextMessageReceived "Plugin VSCJ2R2X12RZ923E1723T2G086B5JG3T com.hotspot.streamdock.memo.sdPlugin is now connected"
+[2026-05-07 17:27:29.472] Info: onTextMessageReceived "Plugin R1230Y1FWEU23K07E0E7E295W2U0762F com.mirabox.streamdock.pigmenteffects.sdPlugin is now connected"
+[2026-05-07 17:27:29.486] Info: onTextMessageReceived "Plugin 0N980J537D8O1X9095LP2F7C4CR49762 com.mirabox.streamdock.dateTime.sdPlugin is now connected"
+[2026-05-07 17:27:29.508] Info: onTextMessageReceived "Plugin CW6M4G03PE0IMT7K51U41BED2V93Q6WE com.mirabox.streamdock.calendar.sdPlugin is now connected"
+[2026-05-07 17:27:29.522] Info: onTextMessageReceived "Plugin G1LY83O6WG411C96PY1PXPGB322BY713 com.mirabox.streamdock.time.sdPlugin is now connected"
+[2026-05-07 17:27:29.563] Info: onTextMessageReceived "Plugin YRFE0D0O46Q0J6588M12634W8H122AC3 com.mirabox.streamdock.screensaver.sdPlugin is now connected"
+[2026-05-07 17:27:29.587] Info: onTextMessageReceived "Plugin 43QT10SN2ACMGVECED33V40OB68DG3NS com.mirabox.streamdock.h1time.sdPlugin is now connected"
+[2026-05-07 17:27:29.591] Info: onTextMessageReceived "Plugin KBI3YU8F12XT6E3JHZVPU441Q0HKS959 com.mirabox.streamdock.eatgoldcoins.sdPlugin is now connected"
+[2026-05-07 17:27:29.747] Info: onTextMessageReceived "Plugin NZ6A3S5LC545E49U1KK4H76435349PP3 com.mirabox.streamdock.weather.sdPlugin is now connected"
+[2026-05-07 17:27:29.777] Info: Connect to devices...
+[2026-05-07 17:27:29.783] Info: Devices number: 44
+[2026-05-07 17:27:29.783] Info: Elapsed time: 6 ms
+[2026-05-07 17:27:29.783] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   138 tmpUsagePage  32 0
+[2026-05-07 17:27:29.783] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   5 tmpUsagePage  65280 1
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  1 2
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  1 3
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  12 4
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   128 tmpUsagePage  1 5
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   19 tmpUsagePage  1 6
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   95 tmpUsagePage  65280 7
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   6 tmpUsagePage  1 8
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   6 tmpUsagePage  1 9
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  65292 10
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   128 tmpUsagePage  1 11
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  12 12
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   19 tmpUsagePage  1 13
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   514 tmpUsagePage  65347 14
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   9 tmpUsagePage  65280 15
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   4 tmpUsagePage  65280 16
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   3 tmpUsagePage  65280 17
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   72 tmpUsagePage  65280 18
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   11 tmpUsagePage  65280 19
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "5ac" pid  "0" tmpUsage   15 tmpUsagePage  65280 20
+[2026-05-07 17:27:29.784] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  65440 21
+[2026-05-07 17:27:29.786] Info: "tmpVid  : 21832  tmpPid: 4128  tmpSerialNumber  01E2D2782932   -----"
+[2026-05-07 17:27:29.790] Info: SDDeviceDisplayWidget::openDevice 21832 4128 "01E2D2782932" 65440 1 0
+[2026-05-07 17:27:29.790] Info: Open device - begin
+[2026-05-07 17:27:29.790] Info: Open device: handle = 0x0
+[2026-05-07 17:27:29.790] Info: hid_init - end : 65440 1
+[2026-05-07 17:27:29.792] Info: "hid_get_manufacturer_string() return 0; Manufacturer String: HOTSPOTEKUSB;"
+[2026-05-07 17:27:29.792] Info: "hid_get_product_string() return 0; Product String: HOTSPOTEKUSB HID DEMO;"
+[2026-05-07 17:27:29.792] Info: "hid_get_serial_number_string() return 0; Serial Number String: (48) 01E2D2782932;"
+[2026-05-07 17:27:29.792] Info: "hid_get_indexed_string() return -1; Indexed String: 01E2D2782932;"
+[2026-05-07 17:27:29.792] Info: hid_get_output_report_lenght() return: 1024
+[2026-05-07 17:27:29.792] Info: hid_get_input_report_lenght() return: 512
+[2026-05-07 17:27:29.792] Info: hid_get_feature_report_lenght() return: 0
+[2026-05-07 17:27:29.793] Info: Open device: get firmware version, version string = "V4.M3_HJDF.02.007"
+[2026-05-07 17:27:29.793] Info: Try to start hid read thread.
+[2026-05-07 17:27:29.793] Info: Hid read thread start.
+[2026-05-07 17:27:29.793] Info: Read data function - begin
+[2026-05-07 17:27:29.793] Info: Try to start hid write thread.
+[2026-05-07 17:27:29.793] Info: Hid write thread start.
+[2026-05-07 17:27:29.793] Info: Write data function - begin
+[2026-05-07 17:27:29.793] Info: Open device - end
+[2026-05-07 17:27:29.793] Info: 启动发送数据线程。
+[2026-05-07 17:27:29.793] Info: 成功打开USB设备。
+[2026-05-07 17:27:29.793] Info: 启动接收数据线程。
+[2026-05-07 17:27:29.793] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   2 tmpUsagePage  65440 22
+[2026-05-07 17:27:29.793] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   6 tmpUsagePage  1 23
+[2026-05-07 17:27:29.793] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  12 24
+[2026-05-07 17:27:29.793] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   5 tmpUsagePage  13 25
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   255 tmpUsagePage  65280 26
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   2 tmpUsagePage  1 27
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  1 28
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  13 29
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   12 tmpUsagePage  65280 30
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   13 tmpUsagePage  65280 31
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  65292 32
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  65292 33
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  1 34
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 35
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  65280 36
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  65280 37
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  65280 38
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   3 tmpUsagePage  65280 39
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 40
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   2 tmpUsagePage  1 41
+[2026-05-07 17:27:29.794] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   1 tmpUsagePage  1 42
+[2026-05-07 17:27:29.795] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   514 tmpUsagePage  65347 43
+[2026-05-07 17:27:29.796] Info: checkForUpdates
+[2026-05-07 17:27:29.802] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:27:29.851] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:27:29.854] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:27:29.890] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:27:47.613] Info: onTextMessageReceived "Plugin 41RSB2D3UM5Q96X37E48G0R3JF00LVQH com.nicollasr.streamdeckvsc.mac.sdPlugin is now connected"
+[2026-05-07 17:29:03.688] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 17:29:03.688] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 17:29:03.692] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 17:29:03.716] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 17:29:03.719] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:29:03.730] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:29:03.900] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 17:29:03.900] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 17:29:03.903] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 17:29:03.917] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-07 17:29:03.923] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-07 17:29:03.926] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 17:29:03.927] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:29:03.941] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:29:04.049] Info: onSocketDisconnected "Plugin 41RSB2D3UM5Q96X37E48G0R3JF00LVQH com.nicollasr.streamdeckvsc.mac.sdPlugin is now disconnected"
+[2026-05-07 17:29:04.049] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:29:04.049] Info: removePluginCode QWebSocket(0x11f4b97d0)
+[2026-05-07 17:29:04.071] Critical: "The plugin 'com.nicollasr.streamdeckvsc.mac.sdPlugin' crashed: execve: Exec format error"
+[2026-05-07 17:29:04.071] Info: restartPlugin "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.nicollasr.streamdeckvsc.mac.sdPlugin" 0
+[2026-05-07 17:29:04.648] Critical: "The plugin 'com.nicollasr.streamdeckvsc.mac.sdPlugin' crashed: Process crashed"
+[2026-05-07 17:29:07.523] Info: onTextMessageReceived "Property inspector 6457T311YM9BQ06WU41XISC4J47117YV  is now connected"
+[2026-05-07 17:29:10.491] Critical: onSocketDisconnected QWebSocket(0x30ca9e300) 1001 ""
+[2026-05-07 17:29:10.491] Info: onSocketDisconnected "Property inspector 6457T311YM9BQ06WU41XISC4J47117YV  is now disconnected"
+[2026-05-07 17:29:10.491] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:29:10.491] Info: removePluginCode QWebSocket(0x30ca9e300)
+[2026-05-07 17:29:15.470] Info: onTextMessageReceived "Property inspector 0O0R0XPY143W4CFRL64VCV3WQ4T10I87  is now connected"
+[2026-05-07 17:29:15.651] Critical: onSocketDisconnected QWebSocket(0x11f64db80) 1001 ""
+[2026-05-07 17:29:15.651] Info: onSocketDisconnected "Property inspector 0O0R0XPY143W4CFRL64VCV3WQ4T10I87  is now disconnected"
+[2026-05-07 17:29:15.651] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:29:15.651] Info: removePluginCode QWebSocket(0x11f64db80)
+[2026-05-07 17:29:32.705] Info: onTextMessageReceived "Property inspector 28ZXPUI801C4SCBRP323441BCV0A1WN6  is now connected"
+[2026-05-07 17:29:39.439] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:29:39.486] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:29:39.536] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:29:39.586] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:29:39.636] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:29:39.833] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:29:39.885] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:29:39.953] Info: SDNotificationWidget::updateLocation
+[2026-05-07 17:33:36.138] Critical: onSocketDisconnected QWebSocket(0x161fc4ae0) 1001 ""
+[2026-05-07 17:33:36.139] Info: onSocketDisconnected "Property inspector 28ZXPUI801C4SCBRP323441BCV0A1WN6  is now disconnected"
+[2026-05-07 17:33:36.139] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:33:36.139] Info: removePluginCode QWebSocket(0x161fc4ae0)
+[2026-05-07 17:33:36.158] Info: onTextMessageReceived "Property inspector 001FWS9QM3V513VZ2K6O005OKK1MUP0O  is now connected"
+[2026-05-07 17:34:03.550] Critical: onSocketDisconnected QWebSocket(0x12f80be60) 1001 ""
+[2026-05-07 17:34:03.550] Info: onSocketDisconnected "Property inspector 001FWS9QM3V513VZ2K6O005OKK1MUP0O  is now disconnected"
+[2026-05-07 17:34:03.551] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:34:03.551] Info: removePluginCode QWebSocket(0x12f80be60)
+[2026-05-07 17:34:04.294] Info: onTextMessageReceived "Property inspector 6MOAVDUV42JLTFPSFTX2HE0942PW08NV  is now connected"
+[2026-05-07 17:34:04.844] Critical: onSocketDisconnected QWebSocket(0x11f69c470) 1001 ""
+[2026-05-07 17:34:04.844] Info: onSocketDisconnected "Property inspector 6MOAVDUV42JLTFPSFTX2HE0942PW08NV  is now disconnected"
+[2026-05-07 17:34:04.844] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:34:04.844] Info: removePluginCode QWebSocket(0x11f69c470)
+[2026-05-07 17:34:04.892] Info: onTextMessageReceived "Property inspector 92344DZ4338909MO3523132DN8433K3B  is now connected"
+[2026-05-07 17:34:05.430] Critical: onSocketDisconnected QWebSocket(0x161fb2270) 1001 ""
+[2026-05-07 17:34:05.431] Info: onSocketDisconnected "Property inspector 92344DZ4338909MO3523132DN8433K3B  is now disconnected"
+[2026-05-07 17:34:05.431] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:34:05.431] Info: removePluginCode QWebSocket(0x161fb2270)
+[2026-05-07 17:34:05.473] Info: onTextMessageReceived "Property inspector Z400192QQWDK7Q23RN85282L964H2TI3  is now connected"
+[2026-05-07 17:34:05.891] Critical: onSocketDisconnected QWebSocket(0x12fcb07c0) 1001 ""
+[2026-05-07 17:34:05.891] Info: onSocketDisconnected "Property inspector Z400192QQWDK7Q23RN85282L964H2TI3  is now disconnected"
+[2026-05-07 17:34:05.891] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:34:05.891] Info: removePluginCode QWebSocket(0x12fcb07c0)
+[2026-05-07 17:34:30.557] Info: onTextMessageReceived "Property inspector 0VZ8TM8ETJ4VIMKF240B3Y2NG56UA79D  is now connected"
+[2026-05-07 17:36:49.033] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 17:36:49.034] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 17:36:49.048] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 17:36:49.068] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 17:36:49.072] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:36:49.079] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:36:49.081] Critical: onSocketDisconnected QWebSocket(0x12f808f30) 1001 ""
+[2026-05-07 17:36:49.082] Info: onSocketDisconnected "Property inspector 0VZ8TM8ETJ4VIMKF240B3Y2NG56UA79D  is now disconnected"
+[2026-05-07 17:36:49.082] Info: 尝试重新加载插件或者移除相关数据
+[2026-05-07 17:36:49.082] Info: removePluginCode QWebSocket(0x12f808f30)
+[2026-05-07 17:36:49.215] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 17:36:49.216] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 17:36:49.219] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 17:36:49.274] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 17:36:49.275] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 17:36:49.311] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 17:40:42.463] Info: quitApp - begin
+[2026-05-07 17:40:42.464] Info: quitApp - end
+[2026-05-07 17:40:42.493] Info: About to quit.
+[2026-05-07 17:40:42.493] Info: ~StreamDock
+[2026-05-07 17:40:42.499] Info: 发送断开连接命令
+[2026-05-07 17:40:42.500] Info: Close device - begin
+[2026-05-07 17:40:42.501] Info: Close device: handle = 0x34133d650
+[2026-05-07 17:40:42.501] Info: Try to stop hid write thread.
+[2026-05-07 17:40:42.501] Info: Write data function - end
+[2026-05-07 17:40:42.501] Info: 关闭发送数据线程。
+[2026-05-07 17:40:42.501] Info: Try to stop hid read thread.
+[2026-05-07 17:40:44.464] Info: Read data function - end
+[2026-05-07 17:40:44.464] Info: 关闭接收数据线程。
+[2026-05-07 17:40:44.465] Info: hid_close(): handle = 0x0
+[2026-05-07 17:40:44.465] Info: hid_exit(): result = 0
+[2026-05-07 17:40:44.466] Info: Close device - end
+[2026-05-07 17:40:44.467] Info: Need to restart app: false
+[2026-05-07 17:40:44.475] Info: Close device: device not open!
+[2026-05-07 17:40:44.475] Info: Close device: device not open!
+[2026-05-07 17:40:44.475] Info: Close device: device not open!
+[2026-05-07 17:40:44.476] Info: ~SDDeviceDisplayWidget() :: "L3" "01E2D2782932"
+[2026-05-07 17:40:44.476] Info: Close device: device not open!
+[2026-05-07 17:40:44.476] Info: sddevice delete, have setting nullptr.

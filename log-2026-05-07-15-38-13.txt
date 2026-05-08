@@ -1,0 +1,418 @@
+[2026-05-07 15:38:13.467] Warning: Detected system locale encoding (US-ASCII, locale "C") is not UTF-8.
+Qt shall use a UTF-8 locale ("C.UTF-8") instead. If this causes problems,
+reconfigure your locale. See the locale(1) manual for more information.
+[2026-05-07 15:38:13.562] Critical: Another instance is already running. Exiting... "@MiraBox_StreamDock_LocalServer_Name_"
+[2026-05-07 15:38:13.563] Warning: StandaloneMessgeLoop is not supported on macOS
+[2026-05-07 15:38:13.563] Warning: Sandbox status is not configurable when compile switch CEF_USE_SANDBOX is OFF
+[2026-05-07 15:38:13.712] Info: "6.4.3"
+[2026-05-07 15:38:13.712] Info: "macos 15.5"
+[2026-05-07 15:38:13.712] Info: "24.5.0"
+[2026-05-07 15:38:13.712] Info: "Chinese"
+[2026-05-07 15:38:13.712] Info: "3.10.200.0402"
+[2026-05-07 15:38:13.872] Info: Init app - begin
+[2026-05-07 15:38:13.889] Info: Load preload html - begin
+[2026-05-07 15:38:13.900] Info: Load preload html - end
+[2026-05-07 15:38:13.901] Info: MonitorApplicationsTool - start
+[2026-05-07 15:38:13.901] Info: MonitorApplicationsTool - end
+[2026-05-07 15:38:13.903] Info: SDWebsocketServer - end
+[2026-05-07 15:38:13.904] Info: SDPluginServer instance - end
+[2026-05-07 15:38:13.905] Info: SDProfileManager instance - end
+[2026-05-07 15:38:14.151] Info: init plugins mamnger ~~~~~~~~~~~~~
+[2026-05-07 15:38:14.151] Info: init plugins mamnger  end ~~~~~~~~~~~~~
+[2026-05-07 15:38:14.234] Info: initWidget - start
+[2026-05-07 15:38:14.234] Info: initWidget _ SDDebugger start 
+[2026-05-07 15:38:14.237] Info: initWidget _ SDUploadDialog start 
+[2026-05-07 15:38:14.237] Info: initWidget _ SDSetting start 
+[2026-05-07 15:38:14.283] Warning: QLayout: Attempting to add QLayout "" to K1ProKeycapSkinWidget "", which already has a layout
+[2026-05-07 15:38:14.335] Info: initWidget _ SDStore start 
+[2026-05-07 15:38:14.336] Info: Store websocket server listen successful with port: 56018
+[2026-05-07 15:38:14.336] Info: initWidget _ SDToolbarWidget start 
+[2026-05-07 15:38:14.704] Warning: Populating font family aliases took 142 ms. Replace uses of missing font family "Microsoft YaHei" with one that exists to avoid this cost. 
+[2026-05-07 15:38:14.749] Info: SDDeviceDisplayWidget : 注册 sddevice 销毁通知
+[2026-05-07 15:38:14.751] Critical: Can not find profile
+[2026-05-07 15:38:14.753] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:38:14.753] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:38:14.753] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:38:14.787] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:38:14.789] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:38:14.789] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:38:14.790] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:38:14.811] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:38:15.327] Info: Init app - end
+[2026-05-07 15:38:15.327] Warning: QObject: Cannot create children for a parent that is in a different thread.
+(Parent is StreamDock(0x16b04b060), parent's thread is QThread(0x600002214150), current thread is QThread(0x600002151140)
+[2026-05-07 15:38:15.345] Info: SDNotificationWidget::updateLocation
+[2026-05-07 15:38:15.346] Info: "/Applications/StreamDock.app/Contents/MacOS/StreamDock"
+[2026-05-07 15:38:15.347] Info: Run a.exec().
+[2026-05-07 15:38:15.409] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:38:15.409] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:38:15.409] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:38:15.409] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:38:15.506] Info: onTextMessageReceived "Plugin 3OJL1BERZNA62NT1PDO812S4160L09N6 com.mirabox.streamdock.PR.sdPlugin is now connected"
+[2026-05-07 15:38:15.507] Info: onTextMessageReceived "Plugin E5JFV5KOX18M3401ZR1WRD30R73OQDIV com.mirabox.streamdock.pictureEmoticons.sdPlugin is now connected"
+[2026-05-07 15:38:15.507] Info: onTextMessageReceived "Plugin X1SVLMGVP23O5881BSZEGTPW7E0P8Z03 com.mirabox.streamdock.emoji.sdPlugin is now connected"
+[2026-05-07 15:38:15.594] Info: checkForUpdates
+[2026-05-07 15:38:15.696] Info: Downloader status code: 200
+[2026-05-07 15:38:15.696] Info: 数据大小: 34422
+[2026-05-07 15:38:15.696] Info: 是否支持以字节为单位的范围: true
+[2026-05-07 15:38:15.696] Info: 获取数据大小耗时： 230 ms
+[2026-05-07 15:38:15.697] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/space/avatar.png"
+[2026-05-07 15:38:15.715] Info: onTextMessageReceived "Plugin E9VPRP5TJ2TTZ53DCTQ13EYBPX76Q29L com.hotspot.streamdock.memo.sdPlugin is now connected"
+[2026-05-07 15:38:15.746] Info: onTextMessageReceived "Plugin 990955D153N20S10FU9Y1L3W2K3ZP31L com.mirabox.streamdock.pigmenteffects.sdPlugin is now connected"
+[2026-05-07 15:38:15.764] Info: onTextMessageReceived "Plugin 65KXW04Q27HFX5X144A0F0JGL340ZV1N com.mirabox.streamdock.calendar.sdPlugin is now connected"
+[2026-05-07 15:38:15.799] Info: onTextMessageReceived "Plugin JFEK8YFK4JUH9VN037XP4J484Y40PFM2 com.mirabox.streamdock.time.sdPlugin is now connected"
+[2026-05-07 15:38:15.808] Info: onTextMessageReceived "Plugin 8NQ6U62T1VXU2ZG362UV1HV81438QU11 com.mirabox.streamdock.screensaver.sdPlugin is now connected"
+[2026-05-07 15:38:15.853] Info: onTextMessageReceived "Plugin DNIS5C99M178E1086TKG111EG479B197 com.mirabox.streamdock.eatgoldcoins.sdPlugin is now connected"
+[2026-05-07 15:38:15.854] Info: onTextMessageReceived "Plugin CHD3LNE64GGPYNNR1EOFIO1P34X84AQ1 com.mirabox.streamdock.h1time.sdPlugin is now connected"
+[2026-05-07 15:38:16.014] Info: onTextMessageReceived "Plugin 44NX3HN95M2M3FDJ7SYLB1VG305G3UO6 com.mirabox.streamdock.weather.sdPlugin is now connected"
+[2026-05-07 15:38:16.347] Info: Connect to devices...
+[2026-05-07 15:38:16.356] Info: Devices number: 44
+[2026-05-07 15:38:16.356] Info: Elapsed time: 9 ms
+[2026-05-07 15:38:16.356] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   6 tmpUsagePage  1 0
+[2026-05-07 15:38:16.356] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  12 1
+[2026-05-07 15:38:16.356] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  1 2
+[2026-05-07 15:38:16.356] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  1 3
+[2026-05-07 15:38:16.356] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  12 4
+[2026-05-07 15:38:16.356] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   128 tmpUsagePage  1 5
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   19 tmpUsagePage  1 6
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   95 tmpUsagePage  65280 7
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   5 tmpUsagePage  65280 8
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   6 tmpUsagePage  1 9
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   2 tmpUsagePage  1 10
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  1 11
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  13 12
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   12 tmpUsagePage  65280 13
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   13 tmpUsagePage  65280 14
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  65292 15
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  1 16
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 17
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  65280 18
+[2026-05-07 15:38:16.357] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 19
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   255 tmpUsagePage  65280 20
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   9 tmpUsagePage  65280 21
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   3 tmpUsagePage  65280 22
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   138 tmpUsagePage  32 23
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  65280 24
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  65280 25
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   4 tmpUsagePage  65280 26
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   6 tmpUsagePage  1 27
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  65292 28
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   128 tmpUsagePage  1 29
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  12 30
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   19 tmpUsagePage  1 31
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   514 tmpUsagePage  65347 32
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   72 tmpUsagePage  65280 33
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   2 tmpUsagePage  1 34
+[2026-05-07 15:38:16.358] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   1 tmpUsagePage  1 35
+[2026-05-07 15:38:16.359] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   514 tmpUsagePage  65347 36
+[2026-05-07 15:38:16.359] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  65292 37
+[2026-05-07 15:38:16.359] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   5 tmpUsagePage  13 38
+[2026-05-07 15:38:16.359] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   3 tmpUsagePage  65280 39
+[2026-05-07 15:38:16.359] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   11 tmpUsagePage  65280 40
+[2026-05-07 15:38:16.359] Info: 连接的设备 vid  "5ac" pid  "0" tmpUsage   15 tmpUsagePage  65280 41
+[2026-05-07 15:38:16.359] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  65440 42
+[2026-05-07 15:38:16.361] Info: "tmpVid  : 21832  tmpPid: 4128  tmpSerialNumber  01E2D2782932   -----"
+[2026-05-07 15:38:16.365] Info: SDDeviceDisplayWidget::openDevice 21832 4128 "01E2D2782932" 65440 1 0
+[2026-05-07 15:38:16.366] Info: Open device - begin
+[2026-05-07 15:38:16.366] Info: Open device: handle = 0x0
+[2026-05-07 15:38:16.366] Info: hid_init - end : 65440 1
+[2026-05-07 15:38:16.368] Info: "hid_get_manufacturer_string() return 0; Manufacturer String: HOTSPOTEKUSB;"
+[2026-05-07 15:38:16.368] Info: "hid_get_product_string() return 0; Product String: HOTSPOTEKUSB HID DEMO;"
+[2026-05-07 15:38:16.368] Info: "hid_get_serial_number_string() return 0; Serial Number String: (48) 01E2D2782932;"
+[2026-05-07 15:38:16.368] Info: "hid_get_indexed_string() return -1; Indexed String: 01E2D2782932;"
+[2026-05-07 15:38:16.368] Info: hid_get_output_report_lenght() return: 1024
+[2026-05-07 15:38:16.368] Info: hid_get_input_report_lenght() return: 512
+[2026-05-07 15:38:16.368] Info: hid_get_feature_report_lenght() return: 0
+[2026-05-07 15:38:16.369] Info: Open device: get firmware version, version string = "V4.M3_HJDF.02.007"
+[2026-05-07 15:38:16.369] Info: Try to start hid read thread.
+[2026-05-07 15:38:16.369] Info: Hid read thread start.
+[2026-05-07 15:38:16.369] Info: Read data function - begin
+[2026-05-07 15:38:16.369] Info: Try to start hid write thread.
+[2026-05-07 15:38:16.369] Info: Hid write thread start.
+[2026-05-07 15:38:16.369] Info: Write data function - begin
+[2026-05-07 15:38:16.370] Info: Open device - end
+[2026-05-07 15:38:16.370] Info: 启动发送数据线程。
+[2026-05-07 15:38:16.371] Info: 成功打开USB设备。
+[2026-05-07 15:38:16.371] Info: 启动接收数据线程。
+[2026-05-07 15:38:16.372] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   2 tmpUsagePage  65440 43
+[2026-05-07 15:38:16.374] Info: checkForUpdates
+[2026-05-07 15:38:16.381] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:38:16.415] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:38:16.417] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:38:16.447] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:06.565] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:06.566] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:06.569] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:06.574] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:06.574] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:06.577] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:07.383] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:07.384] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:07.384] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:07.432] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:07.432] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:07.468] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:08.053] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:08.053] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:08.055] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:08.057] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:08.057] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:08.058] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:08.915] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:08.915] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:08.915] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:08.963] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:08.963] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:09.004] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:19.894] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:19.895] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:19.896] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:19.915] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:19.921] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:19.939] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:20.375] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:20.375] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:20.377] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:20.381] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:20.386] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:20.389] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:21.635] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:21.635] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:21.636] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:21.638] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-07 15:39:21.643] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:21.649] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:21.653] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:22.165] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:22.165] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:22.166] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:22.168] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-07 15:39:22.173] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:22.178] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:22.183] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:24.103] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:24.104] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:24.105] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:24.117] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:24.122] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:24.129] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:25.528] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:25.528] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:25.529] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:25.533] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:25.533] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:25.536] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:25.999] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:25.999] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:26.000] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:26.008] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:26.008] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:26.015] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:30.419] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:30.419] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:30.420] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:30.424] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:30.424] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:30.427] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:31.020] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:31.020] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:31.021] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:31.029] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:31.030] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:31.036] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:31.650] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:31.650] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:31.651] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:31.655] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:31.655] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:31.658] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:32.520] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:32.521] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:32.522] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:32.530] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:32.531] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:32.538] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:34.551] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:34.552] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:34.553] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:34.577] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:34.581] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:34.610] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:35.407] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:35.407] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:35.408] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:35.410] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:35.411] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:35.413] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:38.542] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:38.542] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:38.542] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:38.576] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:38.577] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:38.612] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:39.651] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:39.651] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:39.653] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:39.655] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:39.656] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:39.657] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:43.682] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:43.683] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:43.683] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:43.719] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:43.719] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:43.753] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:45.862] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:45.863] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:45.865] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:45.867] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:45.867] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:45.869] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:47.746] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:47.746] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:47.747] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:47.782] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:47.783] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:47.817] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:49.292] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:49.292] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:49.295] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:49.299] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:49.299] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:49.302] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:39:51.785] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:39:51.785] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:39:51.786] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:39:51.797] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:39:51.809] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:39:51.818] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:03.332] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:03.332] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:03.334] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:03.338] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:03.343] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:03.347] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:09.750] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:09.751] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:09.751] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:09.766] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:09.773] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:09.779] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:14.386] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:14.387] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:14.388] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:14.393] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:14.401] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:14.405] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:31.446] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:31.446] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:31.447] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:31.456] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:31.463] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:31.471] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:33.606] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:33.606] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:33.608] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:33.613] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:33.619] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:33.624] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:34.797] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:34.798] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:34.799] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:34.809] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:34.821] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:34.830] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:38.978] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:38.978] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:38.984] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:38.991] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:38.996] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:39.001] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:41.935] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:41.935] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:41.937] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:41.973] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:41.973] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:42.006] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:43.483] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:43.484] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:43.486] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:43.498] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:43.498] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:43.508] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:48.533] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:48.533] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:48.536] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:48.576] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:48.577] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:48.609] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:40:49.626] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:40:49.627] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:40:49.630] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:40:49.642] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:40:49.642] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:40:49.652] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:41:37.090] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:41:37.090] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:41:37.092] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:41:37.128] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:41:37.129] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:41:37.163] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:46:50.274] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:46:50.275] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:46:50.276] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:46:50.305] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:46:50.310] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:46:50.328] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:46:51.049] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:46:51.049] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:46:51.050] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:46:51.096] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:46:51.101] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:46:51.133] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:46:51.443] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:46:51.443] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:46:51.449] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:46:51.477] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:46:51.483] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:46:51.502] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:46:53.623] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-07 15:46:53.624] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-07 15:46:53.629] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-07 15:46:53.677] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-07 15:46:53.683] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-07 15:46:53.715] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-07 15:55:53.579] Info: url ==  "https://space.key123.vip/interface/user/productInfo/get/20260413002324"
+[2026-05-07 15:55:53.824] Info: startDownload "getStreamDockPlugin\ngetStreamDockPlugin\n20260413002324\nMiraBox AI精灵\nhttps://cdn1.key123.vip/marketplace/streamDock/plugin/product/2026-04-13/AaklWZuets/com.mirabox.streamdock.KomiAI.sdPlugin" 
+ false
+[2026-05-07 15:55:54.023] Info: Downloader status code: 200
+[2026-05-07 15:55:54.023] Info: 数据大小: 159057877
+[2026-05-07 15:55:54.023] Info: 是否支持以字节为单位的范围: true
+[2026-05-07 15:55:54.023] Info: 获取数据大小耗时： 196 ms
+[2026-05-07 15:55:54.023] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.mirabox.streamdock.KomiAI.sdPlugin.tmp"
+[2026-05-07 15:56:02.103] Info: 6666777777771111111:::: false
+[2026-05-07 15:58:32.301] Info: Commit data request.
+[2026-05-07 15:58:32.302] Info: 发送断开连接命令
+[2026-05-07 15:58:32.303] Info: quitApp - begin
+[2026-05-07 15:58:32.311] Info: quitApp - end
+[2026-05-07 15:58:32.368] Info: About to quit.
+[2026-05-07 15:58:32.368] Info: ~StreamDock
+[2026-05-07 15:58:32.373] Info: 发送断开连接命令
+[2026-05-07 15:58:32.374] Info: Close device - begin
+[2026-05-07 15:58:32.374] Info: Close device: handle = 0x13eee38a0
+[2026-05-07 15:58:32.374] Info: Try to stop hid write thread.
+[2026-05-07 15:58:32.374] Info: Write data function - end
+[2026-05-07 15:58:32.374] Info: 关闭发送数据线程。
+[2026-05-07 15:58:32.375] Info: Try to stop hid read thread.
+[2026-05-07 15:58:33.969] Info: Read data function - end
+[2026-05-07 15:58:33.970] Info: 关闭接收数据线程。
+[2026-05-07 15:58:33.972] Info: hid_close(): handle = 0x0
+[2026-05-07 15:58:33.972] Info: hid_exit(): result = 0
+[2026-05-07 15:58:33.976] Info: Close device - end
+[2026-05-07 15:58:33.977] Info: Need to restart app: false
+[2026-05-07 15:58:33.984] Info: Close device: device not open!
+[2026-05-07 15:58:33.985] Info: Close device: device not open!
+[2026-05-07 15:58:33.986] Info: Close device: device not open!
+[2026-05-07 15:58:33.986] Info: ~SDDeviceDisplayWidget() :: "L3" "01E2D2782932"
+[2026-05-07 15:58:33.987] Info: Close device: device not open!
+[2026-05-07 15:58:33.988] Info: sddevice delete, have setting nullptr.

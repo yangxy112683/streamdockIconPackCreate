@@ -1,0 +1,11 @@
+{
+  "packDirectory": "com.example.my-icons.sdIconPack",
+  "name": "My Icon Pack",
+  "version": "1.0.0",
+  "description": "A custom icon pack for StreamDock and Stream Deck.",
+  "author": "Your Name",
+  "url": "https://example.com",
+  "icon": "icon.svg",
+  "license": "license.txt",
+  "streamdeckId": "com.example.my-icons"
+}

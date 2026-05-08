@@ -1,0 +1,321 @@
+[2026-05-08 11:43:22.692] Critical: Another instance is already running. Exiting... "@MiraBox_StreamDock_LocalServer_Name_"
+[2026-05-08 11:43:22.692] Warning: StandaloneMessgeLoop is not supported on macOS
+[2026-05-08 11:43:22.692] Warning: Sandbox status is not configurable when compile switch CEF_USE_SANDBOX is OFF
+[2026-05-08 11:43:22.827] Info: "6.4.3"
+[2026-05-08 11:43:22.827] Info: "macos 15.5"
+[2026-05-08 11:43:22.828] Info: "24.5.0"
+[2026-05-08 11:43:22.828] Info: "Chinese"
+[2026-05-08 11:43:22.828] Info: "3.10.200.0402"
+[2026-05-08 11:43:22.915] Info: Init app - begin
+[2026-05-08 11:43:22.927] Info: Load preload html - begin
+[2026-05-08 11:43:22.935] Info: Load preload html - end
+[2026-05-08 11:43:22.936] Info: MonitorApplicationsTool - start
+[2026-05-08 11:43:22.936] Info: MonitorApplicationsTool - end
+[2026-05-08 11:43:22.937] Info: SDWebsocketServer - end
+[2026-05-08 11:43:22.937] Info: SDPluginServer instance - end
+[2026-05-08 11:43:22.938] Info: SDProfileManager instance - end
+[2026-05-08 11:43:23.187] Info: init plugins mamnger ~~~~~~~~~~~~~
+[2026-05-08 11:43:23.187] Info: init plugins mamnger  end ~~~~~~~~~~~~~
+[2026-05-08 11:43:23.325] Critical: Can't find the code path file
+[2026-05-08 11:43:23.328] Critical: Can't find the code path file
+[2026-05-08 11:43:23.330] Critical: Can't find the code path file
+[2026-05-08 11:43:23.367] Critical: Can't find the code path file
+[2026-05-08 11:43:23.371] Info: initWidget - start
+[2026-05-08 11:43:23.371] Info: initWidget _ SDDebugger start 
+[2026-05-08 11:43:23.372] Info: initWidget _ SDUploadDialog start 
+[2026-05-08 11:43:23.372] Info: initWidget _ SDSetting start 
+[2026-05-08 11:43:23.411] Warning: QLayout: Attempting to add QLayout "" to K1ProKeycapSkinWidget "", which already has a layout
+[2026-05-08 11:43:23.454] Info: initWidget _ SDStore start 
+[2026-05-08 11:43:23.454] Info: Store websocket server listen successful with port: 56018
+[2026-05-08 11:43:23.454] Info: initWidget _ SDToolbarWidget start 
+[2026-05-08 11:43:23.690] Critical: Unable to create keyboard event tap.
+[2026-05-08 11:43:23.847] Warning: Populating font family aliases took 152 ms. Replace uses of missing font family "Microsoft YaHei" with one that exists to avoid this cost. 
+[2026-05-08 11:43:23.904] Info: SDDeviceDisplayWidget : 注册 sddevice 销毁通知
+[2026-05-08 11:43:23.906] Critical: Can not find profile
+[2026-05-08 11:43:23.906] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:43:23.906] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:43:23.907] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:43:23.987] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:43:23.990] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:43:23.990] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:43:23.990] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:43:24.054] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:43:24.567] Info: Init app - end
+[2026-05-08 11:43:24.567] Warning: QObject: Cannot create children for a parent that is in a different thread.
+(Parent is StreamDock(0x16dcca920), parent's thread is QThread(0x600001b28240), current thread is QThread(0x60000184a280)
+[2026-05-08 11:43:24.591] Info: SDNotificationWidget::updateLocation
+[2026-05-08 11:43:24.600] Info: "/Applications/StreamDock.app/Contents/MacOS/StreamDock"
+[2026-05-08 11:43:24.600] Info: Run a.exec().
+[2026-05-08 11:43:24.630] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:43:24.630] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:43:24.630] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:43:24.630] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:43:24.812] Info: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.nicollasr.streamdeckvsc.mac.sdPlugin/com.nicollasr.streamdeckvsc"  [STDERR]: "Unhandled exception. System.Net.Sockets.SocketException (48): Address already in use\n   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, String callerName)\n   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)\n   at System.Net.Sockets.Socket.Bind(EndPoint localEP)\n   at Fleck.SocketWrapper.Bind(EndPoint endPoint)\n   at Fleck.WebSocketServer.Start(Action`1 config)\n   at StreamDeckVSC.MessageServer.Start() in C:\\Users\\Nicollas\\Documents\\Visual Studio 2019\\Projects\\StreamDeckVSC\\StreamDeckVSC\\MessageServer.cs:line 31\n   at StreamDeckVSC.Program.StartMessageServer(Configuration configuration) in C:\\Users\\Nicollas\\Documents\\Visual Studio 2019\\Projects\\StreamDeckVSC\\StreamDeckVSC\\Program.cs:line 39\n   at StreamDeckVSC.Program.Main(String[] args) in C:\\Users\\Nicollas\\Documents\\Visual Studio 2019\\Projects\\StreamDeckVSC\\StreamDeckVSC\\Program.cs:line 28\n"
+[2026-05-08 11:43:24.813] Critical: "The plugin 'com.nicollasr.streamdeckvsc.mac.sdPlugin' crashed: Process crashed"
+[2026-05-08 11:43:24.813] Info: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/plugins/com.exension.stocks.sdPlugin/sdplugin-stocks"  [STDERR]: "2026/05/08 11:43:23 OpenFile Log: open /Users/dawn80s/Library/Application Support/com.elgato.StreamDeck/Plugins/com.exension.stocks.sdPlugin/stocks.log: no such file or directory\n"
+[2026-05-08 11:43:24.929] Info: checkForUpdates
+[2026-05-08 11:43:25.000] Info: onTextMessageReceived "Plugin K54X0N2IIM3141Z09K2N72I512856B5D com.mirabox.streamdock.PR.sdPlugin is now connected"
+[2026-05-08 11:43:25.001] Info: onTextMessageReceived "Plugin 54YVKWIYI9RX91U9BXKUWXPD405X4Z32 com.nicoohagedorn.pythonscriptdeck.sdPlugin is now connected"
+[2026-05-08 11:43:25.001] Info: onTextMessageReceived "Plugin O06260MA62X1A3S3TRRS65O7T82OLF58 com.chektek.steam-connect.sdPlugin is now connected"
+[2026-05-08 11:43:25.002] Info: onTextMessageReceived "Plugin 1703S6LSP5O3P81I2YB23Y1R6U2012U7 com.mirabox.performancemonitor.mac.sdPlugin is now connected"
+[2026-05-08 11:43:25.002] Info: onTextMessageReceived "Plugin 1RHK89H99J27AFI0V945YGZE1D8F3FC3 dev.androne.plugin.streamdock.ytmusic.sdPlugin is now connected"
+[2026-05-08 11:43:25.003] Info: onTextMessageReceived "Plugin V003R93H287W8JE99J82158Y2B45851B com.textic.steamswitcher.sdPlugin is now connected"
+[2026-05-08 11:43:25.020] Info: onTextMessageReceived "Plugin 1F61PMM1T0JY12Q30CWI3BSU2MG1QK00 com.mirabox.streamdock.pictureEmoticons.sdPlugin is now connected"
+[2026-05-08 11:43:25.021] Info: onTextMessageReceived "Plugin OY0G6V91Z3HL6K3B1Q70DG24GVRU5W44 com.mirabox.streamdock.emoji.sdPlugin is now connected"
+[2026-05-08 11:43:25.022] Info: onTextMessageReceived "Plugin RT7CM8J080P4J8VV4D1VGTN492S94C0A de.artus.fileexplorer.sdPlugin is now connected"
+[2026-05-08 11:43:25.022] Info: onTextMessageReceived "Plugin G0VEBMY2TLKY9UKLS1OS2I0P6WIJY3OI com.mirabox.streamdock.steam.sdPlugin is now connected"
+[2026-05-08 11:43:25.198] Info: onTextMessageReceived "Plugin 261S09547H5HLF8FXDM31QJ5D074AQBH com.dahnandpartners.ytticker.sdPlugin is now connected"
+[2026-05-08 11:43:25.333] Info: onTextMessageReceived "Plugin 5E42X0UW472TVU24QG07O1W97XAFKTAD com.hotspot.streamdock.memo.sdPlugin is now connected"
+[2026-05-08 11:43:25.594] Info: Connect to devices...
+[2026-05-08 11:43:25.600] Info: Devices number: 44
+[2026-05-08 11:43:25.600] Info: Elapsed time: 6 ms
+[2026-05-08 11:43:25.600] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   9 tmpUsagePage  65280 0
+[2026-05-08 11:43:25.600] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   4 tmpUsagePage  65280 1
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  1 2
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  1 3
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  12 4
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   128 tmpUsagePage  1 5
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   19 tmpUsagePage  1 6
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   138 tmpUsagePage  32 7
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   6 tmpUsagePage  1 8
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  65292 9
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   128 tmpUsagePage  1 10
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   1 tmpUsagePage  12 11
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   19 tmpUsagePage  1 12
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "b38e" tmpUsage   514 tmpUsagePage  65347 13
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   6 tmpUsagePage  1 14
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  12 15
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  65292 16
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   11 tmpUsagePage  65280 17
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   3 tmpUsagePage  65280 18
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   1 tmpUsagePage  65280 19
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   2 tmpUsagePage  65280 20
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  1 21
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 22
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   6 tmpUsagePage  65280 23
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   5 tmpUsagePage  13 24
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  12 25
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   3 tmpUsagePage  65280 26
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "5ac" pid  "0" tmpUsage   15 tmpUsagePage  65280 27
+[2026-05-08 11:43:25.601] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   1 tmpUsagePage  65440 28
+[2026-05-08 11:43:25.603] Info: "tmpVid  : 21832  tmpPid: 4128  tmpSerialNumber  01E2D2782932   -----"
+[2026-05-08 11:43:25.606] Info: SDDeviceDisplayWidget::openDevice 21832 4128 "01E2D2782932" 65440 1 0
+[2026-05-08 11:43:25.606] Info: Open device - begin
+[2026-05-08 11:43:25.606] Info: Open device: handle = 0x0
+[2026-05-08 11:43:25.606] Info: hid_init - end : 65440 1
+[2026-05-08 11:43:25.608] Info: "hid_get_manufacturer_string() return 0; Manufacturer String: HOTSPOTEKUSB;"
+[2026-05-08 11:43:25.608] Info: "hid_get_product_string() return 0; Product String: HOTSPOTEKUSB HID DEMO;"
+[2026-05-08 11:43:25.608] Info: "hid_get_serial_number_string() return 0; Serial Number String: (48) 01E2D2782932;"
+[2026-05-08 11:43:25.608] Info: "hid_get_indexed_string() return -1; Indexed String: 01E2D2782932;"
+[2026-05-08 11:43:25.608] Info: hid_get_output_report_lenght() return: 1024
+[2026-05-08 11:43:25.608] Info: hid_get_input_report_lenght() return: 512
+[2026-05-08 11:43:25.608] Info: hid_get_feature_report_lenght() return: 0
+[2026-05-08 11:43:25.609] Info: Open device: get firmware version, version string = "V4.M3_HJDF.02.007"
+[2026-05-08 11:43:25.609] Info: Try to start hid read thread.
+[2026-05-08 11:43:25.609] Info: Hid read thread start.
+[2026-05-08 11:43:25.609] Info: Read data function - begin
+[2026-05-08 11:43:25.609] Info: Try to start hid write thread.
+[2026-05-08 11:43:25.609] Info: Hid write thread start.
+[2026-05-08 11:43:25.609] Info: Write data function - begin
+[2026-05-08 11:43:25.609] Info: Open device - end
+[2026-05-08 11:43:25.609] Info: 启动发送数据线程。
+[2026-05-08 11:43:25.609] Info: 成功打开USB设备。
+[2026-05-08 11:43:25.609] Info: 启动接收数据线程。
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "5548" pid  "1020" tmpUsage   2 tmpUsagePage  65440 29
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  65292 30
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   95 tmpUsagePage  65280 31
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "46d" pid  "c548" tmpUsage   6 tmpUsagePage  1 32
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   2 tmpUsagePage  1 33
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   1 tmpUsagePage  1 34
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "46d" pid  "b01d" tmpUsage   514 tmpUsagePage  65347 35
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   2 tmpUsagePage  1 36
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   1 tmpUsagePage  1 37
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   5 tmpUsagePage  13 38
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   12 tmpUsagePage  65280 39
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   13 tmpUsagePage  65280 40
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   255 tmpUsagePage  65280 41
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "5ac" pid  "8104" tmpUsage   5 tmpUsagePage  65280 42
+[2026-05-08 11:43:25.610] Info: 连接的设备 vid  "0" pid  "0" tmpUsage   72 tmpUsagePage  65280 43
+[2026-05-08 11:43:25.611] Info: Downloader status code: 200
+[2026-05-08 11:43:25.611] Info: 数据大小: 34422
+[2026-05-08 11:43:25.611] Info: 是否支持以字节为单位的范围: true
+[2026-05-08 11:43:25.611] Info: 获取数据大小耗时： 867 ms
+[2026-05-08 11:43:25.611] Info: Start download file from: "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/space/avatar.png"
+[2026-05-08 11:43:25.614] Info: checkForUpdates
+[2026-05-08 11:43:25.621] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:43:25.655] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:43:25.657] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:43:25.688] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:43:33.144] Info: onTextMessageReceived "Plugin 09Z1R8PI043CL9B4J432U3XHC73NRPY9 com.nefrit.telegram.sdPlugin is now connected"
+[2026-05-08 11:43:33.155] Info: onTextMessageReceived "Plugin USM8Y1DUISY2A932T9FDN2LXC32XI34Y com.mirabox.streamdock.dateTime.sdPlugin is now connected"
+[2026-05-08 11:43:33.167] Info: onTextMessageReceived "Plugin W0WBU55IQBXR1NO33O21J9345CDX41CG com.moz.obsidian-for-streamdock.sdPlugin is now connected"
+[2026-05-08 11:43:33.182] Info: onTextMessageReceived "Plugin 99L017E5U2B430C9VL0ME7OV89M23DUR com.mirabox.streamdock.pigmenteffects.sdPlugin is now connected"
+[2026-05-08 11:43:33.186] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:33.193] Info: onTextMessageReceived "Plugin UBE8JSBGQ3M3Q849I6536MHX7O2D2M8X fun.shiro.ytmd.sdPlugin is now connected"
+[2026-05-08 11:43:33.220] Info: onTextMessageReceived "Plugin MS43HJH06T1GC553684U4A4DDM4L1S44 com.mirabox.streamdock.calendar.sdPlugin is now connected"
+[2026-05-08 11:43:33.225] Info: onTextMessageReceived "Plugin OQJ56700U45OO04EQ9C51O1JQ02H319H com.mirabox.streamdock.time.sdPlugin is now connected"
+[2026-05-08 11:43:33.238] Info: onTextMessageReceived "Plugin 624Y4P09NJRNQM84L1KQH0QU2GVLE85Y com.mirabox.streamdock.h1time.sdPlugin is now connected"
+[2026-05-08 11:43:33.255] Info: onTextMessageReceived "Plugin 2970TP7010N71CWRWSFA37YVFEDLH4B7 com.mirabox.streamdock.screensaver.sdPlugin is now connected"
+[2026-05-08 11:43:33.262] Info: onTextMessageReceived "Plugin I7NW298G50L2IO091H9SG04E646N4ZKN com.mirabox.streamdock.eatgoldcoins.sdPlugin is now connected"
+[2026-05-08 11:43:33.271] Info: onTextMessageReceived "Plugin E805JMDF812SDQBA44EM2C0P7B9GTD54 com.mirabox.streamdock.weather.sdPlugin is now connected"
+[2026-05-08 11:43:34.492] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:43.538] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:43.539] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:43:43.540] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:43:43.541] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:43:43.575] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:43:43.586] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:43:43.607] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:43:44.290] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:43:44.290] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:43:44.291] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:43:44.295] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.301] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.308] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.313] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.318] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.325] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.335] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.341] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.347] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.359] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.368] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.374] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.381] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.393] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.396] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.401] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.406] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.411] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.416] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:43:44.416] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:43:44.426] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:43:44.469] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:44:57.000] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.001] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:44:57.001] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:44:57.001] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:44:57.020] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:44:57.029] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:44:57.043] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:44:57.677] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:44:57.678] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:44:57.679] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:44:57.684] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.690] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.695] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.699] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.703] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.707] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.710] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.714] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.718] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.722] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.725] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.728] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.734] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.736] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.739] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.742] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.744] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.748] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.750] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:57.751] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:44:57.759] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:44:57.765] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:44:58.379] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.380] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:44:58.380] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:44:58.383] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:44:58.385] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.387] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.389] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.400] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.407] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.413] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.415] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.419] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.420] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.438] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:44:58.448] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:44:58.471] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:44:58.829] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:44:58.829] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:44:58.832] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:44:58.834] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.838] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.842] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.846] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.849] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.852] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.855] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.858] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.862] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.865] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.868] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.870] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.872] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.875] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.877] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.879] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.882] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.885] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.887] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:44:58.887] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:44:58.895] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:44:58.901] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:45:03.335] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:03.335] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:45:03.336] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:45:03.338] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:45:03.350] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:45:03.358] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:45:03.372] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:45:04.046] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 11:45:04.047] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 11:45:04.048] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 11:45:04.051] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.058] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.064] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.070] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.075] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.081] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.087] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.095] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.101] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.107] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.112] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.117] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.123] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.129] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.132] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.135] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.139] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.144] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.147] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 11:45:04.147] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 11:45:04.155] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 11:45:04.190] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 11:45:09.659] Info: quitApp - begin
+[2026-05-08 11:45:09.660] Info: quitApp - end
+[2026-05-08 11:45:09.715] Info: About to quit.
+[2026-05-08 11:45:09.716] Info: ~StreamDock
+[2026-05-08 11:45:09.734] Info: 发送断开连接命令
+[2026-05-08 11:45:09.735] Info: Close device - begin
+[2026-05-08 11:45:09.735] Info: Close device: handle = 0x12f5213e0
+[2026-05-08 11:45:09.735] Info: Try to stop hid write thread.
+[2026-05-08 11:45:09.735] Info: Write data function - end
+[2026-05-08 11:45:09.735] Info: 关闭发送数据线程。
+[2026-05-08 11:45:09.735] Info: Try to stop hid read thread.
+[2026-05-08 11:45:10.046] Info: Read data function - end
+[2026-05-08 11:45:10.047] Info: 关闭接收数据线程。
+[2026-05-08 11:45:10.049] Info: hid_close(): handle = 0x0
+[2026-05-08 11:45:10.049] Info: hid_exit(): result = 0
+[2026-05-08 11:45:10.052] Info: Close device - end
+[2026-05-08 11:45:10.055] Info: Need to restart app: false
+[2026-05-08 11:45:10.060] Info: Close device: device not open!
+[2026-05-08 11:45:10.060] Info: Close device: device not open!
+[2026-05-08 11:45:10.060] Info: Close device: device not open!
+[2026-05-08 11:45:10.061] Info: ~SDDeviceDisplayWidget() :: "L3" "01E2D2782932"
+[2026-05-08 11:45:10.061] Info: Close device: device not open!
+[2026-05-08 11:45:10.061] Info: sddevice delete, have setting nullptr.
