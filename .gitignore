@@ -2,3 +2,6 @@
 *.tmp
 *.swp
 *.bak
+log-*.txt
+.playwright-cli/
+iconpack-template/build/
