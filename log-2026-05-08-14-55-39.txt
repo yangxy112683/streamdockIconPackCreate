@@ -1,0 +1,483 @@
+[2026-05-08 17:07:05.147] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.153] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:07:05.154] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:07:05.156] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:07:05.175] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:07:05.265] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:07:05.276] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:07:05.591] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:07:05.591] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:07:05.592] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:07:05.595] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.598] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.600] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.601] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.605] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.608] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.611] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.612] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.616] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.617] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.620] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.622] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.623] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.626] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.627] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.630] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.631] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.634] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.636] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.639] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.641] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.644] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.646] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.649] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.652] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.656] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.658] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:05.658] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:07:05.667] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:07:05.673] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:07:06.247] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:06.248] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:07:06.248] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:07:06.252] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:07:06.262] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:07:06.426] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:07:06.437] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:07:07.117] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:07:07.117] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:07:07.118] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:07:07.126] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.127] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.129] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.131] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.134] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.135] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.138] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.139] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.143] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.144] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.146] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.149] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.150] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.153] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.153] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.156] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.157] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.160] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.162] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.166] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.168] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.170] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.173] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.175] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.178] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.180] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.182] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:07.183] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:07:07.190] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:07:07.196] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:07:14.704] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:14.705] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:07:14.705] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:07:14.709] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:07:14.721] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:07:14.729] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:07:14.739] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:07:15.072] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:07:15.072] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:07:15.074] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:07:15.078] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.083] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.089] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.094] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.099] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.104] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.110] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.117] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.123] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.128] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.134] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.140] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.147] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.153] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.160] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.164] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.168] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.173] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.177] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:07:15.177] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:07:15.186] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:07:15.224] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:11:58.150] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:11:58.151] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:11:58.151] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:11:58.152] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:11:58.170] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:11:58.178] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:11:58.193] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:12:44.130] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:12:44.130] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:12:44.132] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:12:44.135] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.140] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.146] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.152] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.157] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.163] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.169] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.175] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.181] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.187] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.192] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.197] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.205] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.211] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.217] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.221] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.225] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.230] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.234] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.234] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:12:44.245] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:44.245] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:12:44.245] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:12:44.247] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:12:44.266] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:12:44.274] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:12:44.286] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:12:44.286] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:12:44.299] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 17:12:45.075] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 17:12:45.075] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 17:12:45.076] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 17:12:45.079] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.084] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.089] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.093] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.096] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.102] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.111] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.117] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.122] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.126] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.131] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.135] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.141] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.146] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.151] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.154] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.158] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.162] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.165] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 17:12:45.165] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 17:12:45.174] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 17:12:45.215] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 18:34:44.550] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:34:44.551] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 18:34:44.551] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 18:34:44.553] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 18:34:44.570] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 18:34:44.579] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 18:34:44.588] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 18:35:01.880] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:35:01.884] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:35:01.887] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:35:01.889] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:35:01.895] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:35:01.898] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:35:01.899] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:35:01.908] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:35:01.918] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:35:01.935] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:35:01.937] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:35:01.939] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:35:01.940] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:35:01.941] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:35:25.660] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:35:25.666] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:35:25.667] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:35:25.670] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:35:25.676] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:35:25.678] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:35:25.680] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:35:25.690] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:35:25.701] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:35:25.720] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:35:25.721] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:35:25.722] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:35:25.723] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:35:25.724] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:36:13.531] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:36:13.536] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:36:13.537] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:36:13.540] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:36:13.546] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:36:13.549] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:36:13.551] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:36:13.561] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:36:13.569] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:36:13.586] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:36:13.587] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:36:13.589] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:36:13.589] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:36:13.590] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:36:32.807] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:36:32.811] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:36:32.812] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:36:32.815] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:36:32.821] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:36:32.823] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:36:32.825] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:36:32.834] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:36:32.845] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:36:32.863] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:36:32.863] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:36:32.864] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:36:32.865] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:36:32.866] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:36:45.639] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:36:45.643] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:36:45.644] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:36:45.646] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:36:45.652] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:36:45.653] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:36:45.654] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:36:45.662] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:36:45.674] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:36:45.690] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:36:45.691] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:36:45.692] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:36:45.692] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:36:45.693] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:37:02.606] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:37:02.610] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:37:02.612] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:37:02.614] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:37:02.621] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:37:02.624] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:37:02.626] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:37:02.635] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:37:02.645] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:37:02.666] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:37:02.668] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:37:02.669] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:37:02.670] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:37:02.671] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:37:11.462] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:37:11.466] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:37:11.467] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:37:11.469] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:37:11.475] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:37:11.477] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:37:11.478] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:37:11.486] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:37:11.494] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:37:11.504] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:37:11.505] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:37:11.505] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:37:11.506] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:37:11.507] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:38:00.466] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:38:00.471] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:38:00.472] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:38:00.474] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:38:00.479] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:38:00.481] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:38:00.482] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:38:00.490] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:38:00.499] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:38:00.515] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:38:00.516] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:38:00.517] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:38:00.517] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:38:00.518] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:42:11.074] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 18:42:11.074] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 18:42:11.076] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 18:42:11.079] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.084] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.090] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.095] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.099] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.105] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.110] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.117] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.124] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.130] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.135] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.140] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.146] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.152] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.158] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.161] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.165] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.170] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.173] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.174] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 18:42:11.186] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.187] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 18:42:11.187] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 18:42:11.188] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 18:42:11.205] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 18:42:11.213] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 18:42:11.224] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 18:42:11.224] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 18:42:11.234] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 18:42:11.841] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 18:42:11.841] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 18:42:11.843] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 18:42:11.846] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.851] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.856] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.862] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.866] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.872] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.876] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.882] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.887] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.892] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.897] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.902] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.908] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.914] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.920] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.926] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.930] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.934] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.939] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:11.939] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 18:42:11.946] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 18:42:11.986] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 18:42:12.256] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:42:12.257] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 18:42:12.257] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 18:42:12.259] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 18:42:12.276] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 18:42:12.309] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 18:42:12.322] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 18:42:20.493] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:42:20.499] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:42:20.500] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:42:20.503] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:42:20.509] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:42:20.511] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:42:20.513] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:42:20.522] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:42:20.531] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:42:20.549] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:42:20.550] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:42:20.552] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:42:20.553] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:42:20.554] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:46:45.277] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:46:45.281] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:46:45.283] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:46:45.285] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:46:45.292] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:46:45.294] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:46:45.296] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:46:45.306] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:46:45.315] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:46:45.333] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:46:45.334] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:46:45.336] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:46:45.337] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:46:45.338] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:46:54.161] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:46:54.164] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:46:54.165] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:46:54.167] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:46:54.173] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:46:54.175] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:46:54.176] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:46:54.185] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:46:54.194] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:46:54.212] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:46:54.213] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:46:54.214] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:46:54.215] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:46:54.216] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:47:03.277] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:47:03.281] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:47:03.282] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:47:03.284] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:47:03.289] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:47:03.291] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:47:03.293] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:47:03.301] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:47:03.310] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:47:03.327] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:47:03.328] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:47:03.328] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:47:03.329] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:47:03.330] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:47:11.299] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:47:11.303] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:47:11.304] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:47:11.306] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:47:11.313] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:47:11.314] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:47:11.316] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:47:11.323] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:47:11.332] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:47:11.351] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:47:11.352] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:47:11.353] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:47:11.354] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:47:11.355] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:47:23.900] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.designersusedicons.music.sdIconPack"
+[2026-05-08 18:47:23.904] Info: loadIconPack "/Applications/StreamDock.app/Contents/MacOS/../Resources/icons" "com.streamdock.WindowsController.sdIconPack"
+[2026-05-08 18:47:23.905] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.trangenderflag.sdIconPack"
+[2026-05-08 18:47:23.907] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamdock.dongtaitubiaoicons.hotspot.sdIconPack"
+[2026-05-08 18:47:23.913] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.vivremotion.gifcollection.sdIconPack"
+[2026-05-08 18:47:23.914] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "abritoart.pastelproductivity.iconpack.sdIconPack"
+[2026-05-08 18:47:23.916] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.streamspell.scifi.sdIconPack"
+[2026-05-08 18:47:23.924] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.google.material.sdIconPack"
+[2026-05-08 18:47:23.933] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.apple.sfsymbols.multicolor.sdIconPack"
+[2026-05-08 18:47:23.949] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.en-obsidian.sdIconPack"
+[2026-05-08 18:47:23.950] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.mocos-folder.sdIconPack"
+[2026-05-08 18:47:23.951] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.moz.intellij.sdIconPack"
+[2026-05-08 18:47:23.951] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.wp.devPack.sdIconPack"
+[2026-05-08 18:47:23.952] Info: loadIconPack "/Users/dawn80s/Library/Application Support/HotSpot/StreamDock/icons" "com.dawn80s.cn-sites.sdIconPack"
+[2026-05-08 18:48:48.607] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 18:48:48.608] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 18:48:48.610] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 18:48:48.613] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.614] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.617] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.618] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.622] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.623] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.625] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.626] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.630] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.631] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.633] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.635] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.636] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.639] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.640] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.643] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.643] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.646] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.649] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.652] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.654] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.657] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.659] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.661] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.664] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.667] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.670] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:48.670] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 18:48:48.678] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 18:48:48.683] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut
+[2026-05-08 18:48:53.250] Info: willAppear "L3" "01E2D2782932" "1bf4c382afa09188956e73b6f25d1144"
+[2026-05-08 18:48:53.250] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &) begin
+[2026-05-08 18:48:53.250] Info: void SDDeviceDisplayWidget::onPageChanged(const QString &)
+[2026-05-08 18:48:53.254] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 1
+[2026-05-08 18:48:53.269] Info: void SDDeviceDisplayWidget::updateActionData(const ProfileData &, bool) 2
+[2026-05-08 18:48:53.277] Info: void SDDeviceDisplayWidget::refreshDisplay()
+[2026-05-08 18:48:53.290] Info: void SDDeviceDisplayWidget::refreshDisplay() beginOut

@@ -1,0 +1,61 @@
+{
+  "pack_root": "icons/com.dawn80s.cn-sites.sdIconPack",
+  "preview_root": "logs/uniform-png-icons",
+  "canvas_size": [144, 144],
+  "manifest": {
+    "Name": "CN Sites Icons",
+    "Version": "1.0.0",
+    "Description": "Custom icon pack for bilibili, Taobao, Zhihu, Steam, and Chrome.",
+    "Author": "Codex",
+    "URL": "https://www.bilibili.com/",
+    "Icon": "icon.png",
+    "Images": "icons"
+  },
+  "icons": [
+    {
+      "name": "bilibili",
+      "source": "logs/colored-icons/bilibili.ico",
+      "target_size": [112, 112],
+      "tags": ["bilibili", "video", "site"]
+    },
+    {
+      "name": "taobao",
+      "source": "logs/colored-icons/taobao.ico",
+      "target_size": [118, 118],
+      "tags": ["taobao", "shopping", "site"]
+    },
+    {
+      "name": "zhihu",
+      "source": "logs/colored-icons/zhihu.ico",
+      "target_size": [118, 118],
+      "tags": ["zhihu", "qa", "site"]
+    },
+    {
+      "name": "steam",
+      "source": "logs/colored-icons/steam.ico",
+      "target_size": [112, 112],
+      "tags": ["steam", "gaming", "site"]
+    },
+    {
+      "name": "chrome",
+      "source": "logs/colored-icons/chrome.png",
+      "target_size": [112, 112],
+      "tags": ["chrome", "browser", "site"]
+    }
+  ],
+  "cover": {
+    "size": [256, 256],
+    "background": [24, 24, 28, 255],
+    "tile_size": [104, 104],
+    "tile_background": [44, 44, 50, 255],
+    "tile_fit": [96, 96],
+    "center_fit": [88, 88],
+    "center_icon": "chrome",
+    "positions": [
+      [20, 20],
+      [132, 20],
+      [20, 132],
+      [132, 132]
+    ]
+  }
+}
