@@ -41,6 +41,36 @@
       "source": "logs/colored-icons/chrome.png",
       "target_size": [112, 112],
       "tags": ["chrome", "browser", "site"]
+    },
+    {
+      "name": "tophub",
+      "source": "logs/colored-icons/tophub.png",
+      "target_size": [120, 120],
+      "tags": ["tophub", "今日热榜", "news", "hot", "site"]
+    },
+    {
+      "name": "xiaobot",
+      "source": "logs/colored-icons/xiaobot.png",
+      "target_size": [120, 120],
+      "tags": ["xiaobot", "小报童", "content", "site"]
+    },
+    {
+      "name": "qqmusic",
+      "source": "logs/colored-icons/qqmusic.ico",
+      "target_size": [120, 120],
+      "tags": ["qqmusic", "qq音乐", "music", "site"]
+    },
+    {
+      "name": "aihaoji",
+      "source": "logs/colored-icons/aihaoji-icon.png",
+      "target_size": [118, 118],
+      "tags": ["aihaoji", "Ai好记", "ai", "site"]
+    },
+    {
+      "name": "gemini",
+      "source": "logs/colored-icons/gemini.png",
+      "target_size": [120, 120],
+      "tags": ["gemini", "google", "ai", "site"]
     }
   ],
   "cover": {
